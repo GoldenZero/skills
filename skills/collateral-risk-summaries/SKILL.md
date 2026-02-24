@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Assess and summarize collateral risk for secured lending decisions including real estate, equipment, inventory"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

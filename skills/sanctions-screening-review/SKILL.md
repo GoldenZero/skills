@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Review and explain sanctions screening results, OFAC match dispositions, and sanctions compliance decisions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

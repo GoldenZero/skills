@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Balance on-call schedules fairly across providers"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

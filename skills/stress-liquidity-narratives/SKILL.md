@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain stress liquidity impact scenarios including contingency funding plans, survival horizon analysis, stress LCR"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

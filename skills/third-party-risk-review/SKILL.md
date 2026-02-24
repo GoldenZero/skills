@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Assess vendor and business associate risk for healthcare organizations"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

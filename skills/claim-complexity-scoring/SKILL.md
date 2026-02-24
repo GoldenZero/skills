@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Score healthcare claim complexity for work queue prioritization"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

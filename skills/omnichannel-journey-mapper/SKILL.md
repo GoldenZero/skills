@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Map and analyze customer journeys across digital and physical retail channels"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -16,6 +16,7 @@ metadata:
   tags:
     - commerce-intelligence
     - store-vs-online-mix-optimizer
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

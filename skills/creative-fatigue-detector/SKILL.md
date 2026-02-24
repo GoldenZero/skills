@@ -12,6 +12,8 @@ metadata:
   default_prompt: "Analyze ad performance data to detect creative fatigue signals and recommends refresh strategies"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

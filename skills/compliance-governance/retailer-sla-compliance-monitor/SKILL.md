@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Track and report on SLA adherence across CPG-retailer relationships"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

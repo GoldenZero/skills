@@ -7,6 +7,8 @@ metadata:
   short_description: "Explain loan approval and denial decisions with Reg B/ECOA-compliant reason codes."
   default_prompt: "Explain loan approval and denial decisions with full regulatory compliance"
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

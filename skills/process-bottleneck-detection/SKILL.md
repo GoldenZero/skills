@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify and analyze operational bottlenecks in banking processes using Lean and Six Sigma methodologies"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

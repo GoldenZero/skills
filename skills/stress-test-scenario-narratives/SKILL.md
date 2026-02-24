@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain stress test scenarios, assumptions, and results for CCAR/DFAST and internal capital adequacy assessments"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

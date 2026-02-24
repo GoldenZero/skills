@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - sku-rationalization-advisor
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

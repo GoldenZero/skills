@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Summarize customer feedback at scale across surveys, reviews, social media"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

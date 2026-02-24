@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze new market or region viability for CPG expansion"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

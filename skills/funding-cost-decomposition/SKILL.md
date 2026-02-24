@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Decompose funding cost drivers across deposit pricing, wholesale funding, FTP curves, and liquidity premiums"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

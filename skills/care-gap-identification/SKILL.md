@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify missing or overdue care steps against HEDIS, STAR, USPSTF"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

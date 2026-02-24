@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Perform root cause analysis on banking customer complaints and operational issues"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

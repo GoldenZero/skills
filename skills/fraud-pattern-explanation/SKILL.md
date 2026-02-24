@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain transaction fraud signals by analyzing payment, behavioral"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

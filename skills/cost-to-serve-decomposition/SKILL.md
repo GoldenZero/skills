@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Decompose customer service costs by channel, product, segment, and activity to identify cost optimization opportunities"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

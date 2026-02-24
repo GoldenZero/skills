@@ -12,6 +12,8 @@ metadata:
   default_prompt: "Generate systematic ad creative variants across copy, visual direction, format"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

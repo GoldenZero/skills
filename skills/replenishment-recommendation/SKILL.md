@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate optimal reorder quantities and timing using Economic Order Quantity, safety stock models"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

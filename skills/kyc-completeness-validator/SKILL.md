@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Validate KYC/CDD documentation completeness and identify gaps in customer due diligence files"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

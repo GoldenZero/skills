@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Predict prior authorization processing timelines and identify delay risk factors"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

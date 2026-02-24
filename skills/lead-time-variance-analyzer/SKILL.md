@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Diagnose supply delays by decomposing lead time into constituent stages"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

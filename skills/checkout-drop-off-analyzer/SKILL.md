@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Diagnose cart abandonment and checkout funnel drop-off by analyzing behavioral, technical"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

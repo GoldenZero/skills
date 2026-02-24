@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Structure unstructured clinical notes into standardized SOAP format with coded diagnoses, procedure mappings"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate store-level playbooks that translate performance gaps into actionable coaching scripts, training priorities"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

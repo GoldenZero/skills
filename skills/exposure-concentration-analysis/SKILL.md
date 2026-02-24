@@ -7,6 +7,8 @@ metadata:
   short_description: "Analyze portfolio concentration risks across borrower, industry, and geography."
   default_prompt: "Analyze portfolio concentration risks across borrower, industry, geography, product, and collateral dimensions"
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

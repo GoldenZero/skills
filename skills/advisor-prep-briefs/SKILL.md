@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate comprehensive meeting preparation briefs for financial advisors before client reviews"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

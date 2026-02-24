@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Build and analyze banking CLV models incorporating deposit stickiness, product adoption curves, attrition modeling"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

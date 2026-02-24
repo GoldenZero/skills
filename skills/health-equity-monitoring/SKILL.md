@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify and track health disparities across race, ethnicity, socioeconomic status, geography"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

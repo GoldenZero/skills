@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Draft regulator-ready communications for financial institutions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Assess provider network adequacy against CMS, state"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

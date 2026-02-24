@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Optimize provider scheduling templates using demand pattern analysis, appointment type modeling, buffer optimization"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

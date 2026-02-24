@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Track, analyze, and explain operational SLA performance for banking operations functions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

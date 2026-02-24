@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify and prioritize bottlenecks constraining CPG brand or portfolio growth using Theory of Constraints"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Predict client attrition risk for wealth management relationships using engagement, performance, service"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

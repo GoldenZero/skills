@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Validate product claims against FTC, FDA, EPA"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

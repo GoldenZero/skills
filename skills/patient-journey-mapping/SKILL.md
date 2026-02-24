@@ -8,6 +8,8 @@ metadata:
   default_prompt: "End-to-end patient journey mapping and analysis across care episodes, identifying friction points, emotional states"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

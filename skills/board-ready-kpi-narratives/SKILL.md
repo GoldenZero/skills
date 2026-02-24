@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate investor-safe, board-ready narratives from raw KPI data for CPG companies"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

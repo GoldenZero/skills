@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Map client portfolios against their Investment Policy Statement (IPS) to verify compliance"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

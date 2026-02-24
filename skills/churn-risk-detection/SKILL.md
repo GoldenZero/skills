@@ -13,6 +13,8 @@ metadata:
   default_prompt: "Detect and scores customer churn risk for CPG and retail e-commerce brands using behavioral signals"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - private-label-opportunity-finder
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

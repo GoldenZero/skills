@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain Asset-Liability Management scenarios including gap analysis, NII/EVE projections, ALCO decision frameworks"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

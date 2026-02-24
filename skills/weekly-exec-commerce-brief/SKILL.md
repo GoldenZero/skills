@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Auto-generate a weekly executive commerce brief with KPIs, trend analysis, and strategic commentary for CPG leadership"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

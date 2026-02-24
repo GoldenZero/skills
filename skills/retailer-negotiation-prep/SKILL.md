@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Prepare structured negotiation talking points, BATNA analysis, and trade term strategies for CPG-retailer negotiations"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

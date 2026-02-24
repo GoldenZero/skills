@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Risk-stratify patients into actionable tiers using clinical, utilization"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

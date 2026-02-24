@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Flag overstock and stockout risks across the inventory portfolio"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

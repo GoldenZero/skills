@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Adapt CPG and retail e-commerce content for target markets"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

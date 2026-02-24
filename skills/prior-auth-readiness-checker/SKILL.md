@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Validate prior authorization request completeness against payer-specific requirements"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

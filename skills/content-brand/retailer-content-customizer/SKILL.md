@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Tailor product content to meet the unique style guides, character limits, taxonomy rules"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze profitability by clinical service line using contribution margin analysis, cost allocation"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

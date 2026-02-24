@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Diagnose and explain payment processing failures across ACH, wire transfer, check, and real-time payment rails"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

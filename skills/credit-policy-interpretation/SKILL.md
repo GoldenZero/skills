@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain credit policy rules, exceptions, and eligibility criteria in plain language"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

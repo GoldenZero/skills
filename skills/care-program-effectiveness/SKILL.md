@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Measure the clinical, utilization, and financial impact of care management programs and population health interventions"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

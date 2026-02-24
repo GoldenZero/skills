@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Evaluate pricing strategy effectiveness for banking products"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify and score supplier reliability risks across delivery performance"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

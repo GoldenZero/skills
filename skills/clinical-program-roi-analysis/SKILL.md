@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Calculate return on investment for clinical programs including care management, disease management, transitional care"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

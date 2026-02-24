@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify early warning signals of clinician burnout using Maslach Burnout Inventory dimensions"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

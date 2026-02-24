@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Build structured what-if scenario models for CPG strategic planning using Monte Carlo simulation concepts"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Draft regulation-safe client communications for wealth management and advisory relationships"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

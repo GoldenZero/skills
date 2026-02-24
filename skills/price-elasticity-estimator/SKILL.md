@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - price-elasticity-estimator
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

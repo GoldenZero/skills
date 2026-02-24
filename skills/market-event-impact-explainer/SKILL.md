@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain market event impact on client portfolios in plain language with actionable context"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

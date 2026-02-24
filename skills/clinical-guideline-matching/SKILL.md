@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Match patient cases to applicable evidence-based clinical guidelines and protocols"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

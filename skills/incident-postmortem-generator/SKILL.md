@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate incident postmortem reviews for financial institution operational events"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

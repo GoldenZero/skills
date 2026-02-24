@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze and explain interest rate risk impact on NII and EVE"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

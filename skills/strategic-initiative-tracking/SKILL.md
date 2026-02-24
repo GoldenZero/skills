@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Track and report on strategic initiative progress using milestone management, KPI monitoring"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

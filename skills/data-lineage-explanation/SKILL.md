@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain data traceability and lineage for financial institution data assets"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

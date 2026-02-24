@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - promotion-effectiveness-analysis
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

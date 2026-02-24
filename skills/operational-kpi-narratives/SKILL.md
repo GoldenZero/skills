@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate clear, contextualized explanations of operational KPIs for healthcare leadership audiences"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

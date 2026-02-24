@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Detect and explain risk drift in lending portfolios over time using vintage analysis, migration matrices"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

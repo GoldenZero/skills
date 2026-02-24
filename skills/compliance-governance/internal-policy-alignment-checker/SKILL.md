@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Ensure CPG business activities align with internal policies on pricing, trade spend, sustainability, ethics"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

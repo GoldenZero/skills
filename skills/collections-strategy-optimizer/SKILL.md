@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Optimize collections strategies using segmentation, channel effectiveness analysis, and recovery maximization modeling"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

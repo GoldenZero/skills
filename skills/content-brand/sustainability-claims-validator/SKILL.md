@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Validate environmental, social, and governance (ESG) claims"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

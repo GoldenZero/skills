@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Compare provider performance metrics against specialty-matched peers using wRVU productivity"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

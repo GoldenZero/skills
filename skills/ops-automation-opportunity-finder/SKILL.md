@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify and evaluate automation opportunities in banking operations using structured assessment frameworks"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

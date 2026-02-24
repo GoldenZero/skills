@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Ensure healthcare billing compliance with CMS rules, OIG guidelines, False Claims Act requirements"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

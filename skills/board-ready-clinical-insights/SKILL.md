@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate executive-safe clinical performance summaries for board presentations, investor updates"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

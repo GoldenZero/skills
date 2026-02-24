@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify missed preventive care opportunities using HEDIS measures, USPSTF recommendations"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

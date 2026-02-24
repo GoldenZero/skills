@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain portfolio drift from target allocations in client-friendly language with actionable rebalancing guidance"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

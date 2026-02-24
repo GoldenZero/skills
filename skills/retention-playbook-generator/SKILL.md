@@ -13,6 +13,8 @@ metadata:
   default_prompt: "Generate comprehensive, lifecycle-stage-specific retention playbooks for CPG and retail e-commerce brands"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

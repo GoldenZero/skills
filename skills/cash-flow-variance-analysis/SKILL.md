@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain cash flow variance drivers including actual vs"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

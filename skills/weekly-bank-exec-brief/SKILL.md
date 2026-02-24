@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Auto-generate weekly executive summaries for bank leadership covering financial performance"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

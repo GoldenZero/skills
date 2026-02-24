@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze customer channel shift patterns from physical to digital banking channels"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

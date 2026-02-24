@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Summarize patient care journeys across encounters into concise clinical pathway narratives"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

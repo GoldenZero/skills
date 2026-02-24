@@ -13,6 +13,8 @@ metadata:
   default_prompt: "Determines the optimal timing, trigger conditions"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

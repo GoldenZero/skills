@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Document and explain model risk management decisions aligned with SR 11-7 and OCC 2011-12 supervisory guidance"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

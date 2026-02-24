@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Assess and explain the business impact of regulatory changes on CPG operations"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

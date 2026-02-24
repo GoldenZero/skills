@@ -13,6 +13,8 @@ metadata:
   default_prompt: "Identify and prioritizes cross-sell opportunities by analyzing product affinity, purchase sequences, basket composition"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

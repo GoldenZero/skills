@@ -13,6 +13,8 @@ metadata:
   default_prompt: "Build actionable customer segments for CPG and retail e-commerce using RFM analysis"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Prepare comprehensive clinical audit summaries for Joint Commission, CMS, state health department"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

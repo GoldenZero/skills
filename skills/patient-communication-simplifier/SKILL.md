@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Transform complex clinical and administrative healthcare communications into plain-language content calibrated to"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Detect underwriting bias, inconsistency, and disparate treatment across loan decisions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Decompose and explain margin erosion or expansion drivers across CPG P&L layers using waterfall analysis"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

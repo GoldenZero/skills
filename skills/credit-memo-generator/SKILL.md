@@ -7,6 +7,8 @@ metadata:
   short_description: "Generate investment-grade credit memoranda for commercial and institutional lending."
   default_prompt: "Generate investment-grade credit memoranda for commercial and institutional lending decisions"
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

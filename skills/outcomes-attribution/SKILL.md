@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Attribute health outcomes to specific clinical interventions, programs, or policy changes using causal inference methods"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

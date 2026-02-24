@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze and explain trade spend impact, ROI, and effectiveness across CPG promotional programs and retailer investments"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

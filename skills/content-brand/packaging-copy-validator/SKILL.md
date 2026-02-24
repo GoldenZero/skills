@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Validate on-pack and digital packaging copy against legal mandates"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify payer underpayments by comparing actual reimbursements against contracted rates, fee schedules"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

@@ -13,6 +13,8 @@ metadata:
   default_prompt: "Score and ranks influencers for brand partnership fit using a multi-dimensional framework covering audience alignment"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

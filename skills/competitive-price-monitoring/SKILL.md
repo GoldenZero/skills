@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - competitive-price-monitoring
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze branch-level performance metrics and generate actionable insights for retail banking branch networks"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Assess new market entry feasibility for financial institutions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

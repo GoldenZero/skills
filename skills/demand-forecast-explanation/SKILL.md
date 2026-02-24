@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain forecast drivers and decomposition to demand planners"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

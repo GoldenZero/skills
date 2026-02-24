@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Draft regulator-ready audit responses, MRA/MRIA remediation plans"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

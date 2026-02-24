@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Conduct operational resilience planning and assessment for financial institutions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

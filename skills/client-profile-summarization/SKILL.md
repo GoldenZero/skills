@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate holistic client profile summaries for wealth management relationships"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

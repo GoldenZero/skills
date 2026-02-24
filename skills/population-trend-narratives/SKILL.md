@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate plain-language narratives explaining population health trends from clinical, utilization, and cost data"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

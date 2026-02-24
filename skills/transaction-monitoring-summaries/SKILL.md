@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate AML/BSA transaction monitoring alert summaries and suspicious activity explanations"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate balance sheet optimization insights"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze claim denial reasons using CARC/RARC codes, payer-specific rules"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

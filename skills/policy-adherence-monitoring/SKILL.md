@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Track and evaluate clinical guideline compliance across providers, departments"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

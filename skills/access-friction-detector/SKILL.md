@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Systematically identify and quantify barriers to healthcare access across scheduling, geographic, financial, cultural"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

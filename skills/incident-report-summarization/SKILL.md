@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Summarize patient safety events and incident reports into structured, actionable summaries"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

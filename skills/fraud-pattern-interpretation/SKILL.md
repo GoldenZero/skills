@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Interpret and explain fraud detection signals, model outputs"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

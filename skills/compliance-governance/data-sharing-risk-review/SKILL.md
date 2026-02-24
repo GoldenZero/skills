@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Review and assess risks of data sharing arrangements between CPG brands and retail partners"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

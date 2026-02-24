@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Attribute AUM growth to its component drivers — market performance, net new assets, client acquisition, attrition"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

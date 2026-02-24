@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Dynamically adjust healthcare content readability and presentation based on assessed health literacy levels using"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

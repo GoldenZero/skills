@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Guide patients through complex care pathways"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

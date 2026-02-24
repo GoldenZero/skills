@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain credit risk drivers, scoring methodologies, and loss estimation for lending portfolios"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

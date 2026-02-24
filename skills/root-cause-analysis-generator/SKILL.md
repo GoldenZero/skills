@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate comprehensive root cause analysis (RCA) drafts"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

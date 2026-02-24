@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify and assess privacy and security risks under HIPAA Privacy Rule (45 CFR 160/164 Subpart E)"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

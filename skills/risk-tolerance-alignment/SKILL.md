@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Check portfolio suitability alignment against client risk tolerance, capacity"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

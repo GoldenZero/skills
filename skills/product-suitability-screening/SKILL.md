@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Screen investment products for suitability alignment with specific client profiles per Reg BI and fiduciary standards"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

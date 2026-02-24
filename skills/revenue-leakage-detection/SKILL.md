@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify sources of lost revenue across the revenue cycle"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

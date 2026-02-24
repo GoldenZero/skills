@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Recommend optimal product placement within warehouse zones and pick locations using velocity-based slotting"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

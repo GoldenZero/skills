@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Predict early-stage default risk for individual loans and portfolio segments using behavioral, bureau"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate comprehensive account history narratives covering the full lifecycle from opening through closure"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

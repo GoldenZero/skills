@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Prioritize and triage operations exception queues across banking functions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

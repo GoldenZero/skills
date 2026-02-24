@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate timeline-based patient summaries that synthesize clinical events, diagnoses, treatments"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

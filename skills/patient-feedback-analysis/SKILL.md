@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze patient complaints, grievances, and survey free-text responses using NLP-driven sentiment analysis"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

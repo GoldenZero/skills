@@ -7,6 +7,8 @@ metadata:
   short_description: "Analyze business continuity planning readiness for financial institutions."
   default_prompt: "Analyze business continuity planning readiness for financial institutions"
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

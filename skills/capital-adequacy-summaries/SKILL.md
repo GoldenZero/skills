@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Summarize capital adequacy positions including CET1, Tier 1, Total Capital ratios, RWA decomposition, leverage ratio"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

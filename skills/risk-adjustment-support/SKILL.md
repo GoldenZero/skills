@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Support HCC coding accuracy, RAF score optimization"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

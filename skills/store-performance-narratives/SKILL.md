@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Auto-generate executive-ready store performance insights by synthesizing KPIs across sales, traffic, labor"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

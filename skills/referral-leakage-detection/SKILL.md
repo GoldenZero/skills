@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify and quantify referral leakage where patients receive referred services outside the health system network"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

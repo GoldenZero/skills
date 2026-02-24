@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Assess digital transformation readiness for financial institutions covering technology infrastructure"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

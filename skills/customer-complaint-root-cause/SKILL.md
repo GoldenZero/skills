@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Identify systemic CX issues by analyzing customer complaint data across channels"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

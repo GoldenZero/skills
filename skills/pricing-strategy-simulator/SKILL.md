@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Simulate CPG pricing strategies including cost pass-through, promotional pricing, EDLP/Hi-Lo analysis"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

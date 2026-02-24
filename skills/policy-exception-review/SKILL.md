@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze policy exceptions for risk patterns, concentration risks, and control gaps in financial institutions"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

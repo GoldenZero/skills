@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze CPG commercial contracts to highlight risky clauses, unfavorable terms"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

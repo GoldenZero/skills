@@ -7,6 +7,8 @@ metadata:
   short_description: "Review access control risks and segregation of duties in financial institutions."
   default_prompt: "Review access control risks and segregation of duties in financial institutions"
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

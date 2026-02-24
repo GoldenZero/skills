@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Track product sell-through velocity against category benchmarks, seasonal expectations"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Predict patient appointment no-show probability using multi-factor risk modeling incorporating historical patterns"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

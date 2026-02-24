@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Enforce data access policies and rules for protected health information"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

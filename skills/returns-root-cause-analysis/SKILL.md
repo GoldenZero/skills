@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Diagnose why product returns are happening"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

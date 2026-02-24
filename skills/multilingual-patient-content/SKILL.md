@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate and validate language-safe healthcare communications"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

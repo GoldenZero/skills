@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain readmission risk drivers using LACE index scoring, clinical and social determinant analysis"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

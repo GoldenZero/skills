@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze operational risk events and produce structured loss event narratives, root cause analyses, and OpRisk reports"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

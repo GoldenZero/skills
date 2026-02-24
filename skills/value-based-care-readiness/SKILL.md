@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Assess organizational readiness for value-based care contracts including shared savings, bundled payments, capitation"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

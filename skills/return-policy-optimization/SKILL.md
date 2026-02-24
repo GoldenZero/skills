@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Recommend data-driven return policy changes by analyzing return patterns, cost structures, customer behavior impacts"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

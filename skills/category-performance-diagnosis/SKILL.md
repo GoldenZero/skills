@@ -14,6 +14,7 @@ metadata:
   tags:
     - commerce-intelligence
     - category-performance-diagnosis
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

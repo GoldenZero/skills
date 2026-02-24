@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - assortment-gap-analysis
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

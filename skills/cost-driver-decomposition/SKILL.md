@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Decompose and explain healthcare cost growth into contributing factors"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

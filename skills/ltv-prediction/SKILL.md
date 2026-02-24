@@ -13,6 +13,8 @@ metadata:
   default_prompt: "Predict customer lifetime value using cohort analysis, RFM-based heuristics"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

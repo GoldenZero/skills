@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - new-product-launch-readiness
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

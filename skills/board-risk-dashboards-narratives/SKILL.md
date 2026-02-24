@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate board-safe risk dashboard narratives covering credit, market, liquidity, operational"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

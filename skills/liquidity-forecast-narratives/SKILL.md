@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate executive-ready narratives explaining liquidity forecasts, LCR/NSFR positions, HQLA composition"
 
   version: "1.0.0"
+  tags:
+    - financial-services
   icon_path: "assets/icon.png"
 ---
 

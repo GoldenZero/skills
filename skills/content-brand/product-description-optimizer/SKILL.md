@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Generate and optimize SEO-rich, conversion-focused product detail page (PDP) copy"
 
   version: "1.0.0"
+  tags:
+    - cpg-retail
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Cohort and segment chronic disease patient populations using clinical registries, claims data, and risk models"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Track and manage provider credentialing and privileging lifecycles using CAQH workflow standards"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

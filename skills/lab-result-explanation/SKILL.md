@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Explain laboratory results for clinicians"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

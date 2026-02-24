@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Interpret and explain payer-specific coverage policies, medical necessity criteria, benefit structures"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 

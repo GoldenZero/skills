@@ -8,6 +8,8 @@ metadata:
   default_prompt: "Analyze viability of new clinic locations, facility expansions, or market entry for healthcare organizations"
 
   version: "1.0.0"
+  tags:
+    - healthcare
   icon_path: "assets/icon.png"
 ---
 
