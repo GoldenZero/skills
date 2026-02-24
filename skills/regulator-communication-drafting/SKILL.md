@@ -5,6 +5,7 @@ description: Draft regulator-ready communications for financial institutions. Us
 metadata:
   display_name: "Regulator Communication Drafting"
   short_description: "Draft regulator-ready communications for financial institutions."
+  default_prompt: "Draft regulator-ready communications for financial institutions"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

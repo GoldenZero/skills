@@ -5,6 +5,7 @@ description: Summarize customer feedback at scale across surveys, reviews, socia
 metadata:
   display_name: "Voice Of Customer Summarizer"
   short_description: "Summarize customer feedback at scale across surveys, reviews, social media, and support..."
+  default_prompt: "Summarize customer feedback at scale across surveys, reviews, social media"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

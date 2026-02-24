@@ -5,6 +5,7 @@ description: Analyze policy exceptions for risk patterns, concentration risks, a
 metadata:
   display_name: "Policy Exception Review"
   short_description: "Analyze policy exceptions for risk patterns, concentration risks, and control gaps in financial..."
+  default_prompt: "Analyze policy exceptions for risk patterns, concentration risks, and control gaps in financial institutions"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

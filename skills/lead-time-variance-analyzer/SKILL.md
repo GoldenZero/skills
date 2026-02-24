@@ -5,6 +5,7 @@ description: Diagnose supply delays by decomposing lead time into constituent st
 metadata:
   display_name: "Lead Time Variance Analyzer"
   short_description: "Diagnose supply delays by decomposing lead time into constituent stages, identifying variance..."
+  default_prompt: "Diagnose supply delays by decomposing lead time into constituent stages"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

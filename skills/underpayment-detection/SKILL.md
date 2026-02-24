@@ -5,6 +5,7 @@ description: Identify payer underpayments by comparing actual reimbursements aga
 metadata:
   display_name: "Underpayment Detection"
   short_description: "Identify payer underpayments by comparing actual reimbursements against contracted rates, fee..."
+  default_prompt: "Identify payer underpayments by comparing actual reimbursements against contracted rates, fee schedules"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "New Product Launch Readiness"
   short_description: "Evaluate new product launch readiness across market, product, and operations."
+  default_prompt: "Evaluate the launch readiness of new CPG or retail products"
   version: "1.0.0"
   tags:
     - commerce-intelligence

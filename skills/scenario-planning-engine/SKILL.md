@@ -5,6 +5,7 @@ description: Build structured what-if scenario models for CPG strategic planning
 metadata:
   display_name: "Scenario Planning Engine"
   short_description: "Build structured what-if scenario models for CPG strategic planning using Monte Carlo simulation..."
+  default_prompt: "Build structured what-if scenario models for CPG strategic planning using Monte Carlo simulation concepts"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

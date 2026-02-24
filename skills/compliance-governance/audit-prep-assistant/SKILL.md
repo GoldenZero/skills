@@ -5,6 +5,7 @@ description: Prepare audit-ready documentation packages for internal audits, ext
 metadata:
   display_name: "Audit Prep Assistant"
   short_description: "Prepare audit-ready documentation packages for internal audits, external audits, regulatory..."
+  default_prompt: "Prepare audit-ready documentation packages for internal audits, external audits, regulatory inspections"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

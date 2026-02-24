@@ -5,6 +5,7 @@ description: Explain forecast drivers and decomposition to demand planners, tran
 metadata:
   display_name: "Demand Forecast Explanation"
   short_description: "Explain forecast drivers and decomposition to demand planners, translating statistical models..."
+  default_prompt: "Explain forecast drivers and decomposition to demand planners"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

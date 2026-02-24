@@ -5,6 +5,7 @@ description: Generate professionally structured, evidence-based appeal letters f
 metadata:
   display_name: "Appeal Letter Generator"
   short_description: "Generate professionally structured, evidence-based appeal letters for claim denials, prior..."
+  default_prompt: "Generate professionally structured, evidence-based appeal letters for claim denials, prior authorization overturns"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

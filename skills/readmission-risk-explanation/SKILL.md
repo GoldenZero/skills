@@ -5,6 +5,7 @@ description: Explain readmission risk drivers using LACE index scoring, clinical
 metadata:
   display_name: "Readmission Risk Explanation"
   short_description: "Explain readmission risk drivers using LACE index scoring, clinical and social determinant..."
+  default_prompt: "Explain readmission risk drivers using LACE index scoring, clinical and social determinant analysis"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

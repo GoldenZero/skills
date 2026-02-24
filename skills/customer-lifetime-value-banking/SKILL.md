@@ -5,6 +5,7 @@ description: Build and analyze banking CLV models incorporating deposit stickine
 metadata:
   display_name: "Customer Lifetime Value Banking"
   short_description: "Build and analyze banking CLV models incorporating deposit stickiness, product adoption curves,..."
+  default_prompt: "Build and analyze banking CLV models incorporating deposit stickiness, product adoption curves, attrition modeling"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

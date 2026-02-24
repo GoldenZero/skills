@@ -5,6 +5,7 @@ description: Identify and analyze unwarranted variation in clinical care deliver
 metadata:
   display_name: "Variation Of Care Analysis"
   short_description: "Identify and analyze unwarranted variation in clinical care delivery across providers,..."
+  default_prompt: "Identify and analyze unwarranted variation in clinical care delivery across providers, departments"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

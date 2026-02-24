@@ -5,6 +5,7 @@ description: Analyze patient complaints, grievances, and survey free-text respon
 metadata:
   display_name: "Patient Feedback Analysis"
   short_description: "Analyze patient complaints, grievances, and survey free-text responses using NLP-driven..."
+  default_prompt: "Analyze patient complaints, grievances, and survey free-text responses using NLP-driven sentiment analysis"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

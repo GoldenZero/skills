@@ -5,6 +5,7 @@ description: Generate holistic client profile summaries for wealth management re
 metadata:
   display_name: "Client Profile Summarization"
   short_description: "Generate holistic client profile summaries for wealth management relationships."
+  default_prompt: "Generate holistic client profile summaries for wealth management relationships"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

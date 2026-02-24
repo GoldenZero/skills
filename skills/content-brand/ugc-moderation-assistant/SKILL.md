@@ -5,6 +5,7 @@ description: Screen, classify, and moderate user-generated content including pro
 metadata:
   display_name: "Ugc Moderation Assistant"
   short_description: "Screen, classify, and moderate user-generated content including product reviews, Q&A..."
+  default_prompt: "Screen, classify, and moderate user-generated content"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

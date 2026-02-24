@@ -5,6 +5,7 @@ description: Document and explain model risk management decisions aligned with S
 metadata:
   display_name: "Model Risk Documentation"
   short_description: "Document and explain model risk management decisions aligned with SR 11-7 and OCC 2011-12..."
+  default_prompt: "Document and explain model risk management decisions aligned with SR 11-7 and OCC 2011-12 supervisory guidance"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

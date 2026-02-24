@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "Ltv Prediction"
   short_description: "Predicts customer lifetime value using cohort analysis, RFM-based heuristics, and probabilistic..."
+  default_prompt: "Predict customer lifetime value using cohort analysis, RFM-based heuristics"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

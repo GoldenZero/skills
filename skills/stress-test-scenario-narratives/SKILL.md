@@ -5,6 +5,7 @@ description: Explain stress test scenarios, assumptions, and results for CCAR/DF
 metadata:
   display_name: "Stress Test Scenario Narratives"
   short_description: "Explain stress test scenarios, assumptions, and results for CCAR/DFAST and internal capital..."
+  default_prompt: "Explain stress test scenarios, assumptions, and results for CCAR/DFAST and internal capital adequacy assessments"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Explain cash flow variance drivers including actual vs. forecast de
 metadata:
   display_name: "Cash Flow Variance Analysis"
   short_description: "Explain cash flow variance drivers including actual vs."
+  default_prompt: "Explain cash flow variance drivers including actual vs"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

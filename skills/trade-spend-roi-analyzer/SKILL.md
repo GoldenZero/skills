@@ -5,6 +5,7 @@ description: Analyze and explain trade spend impact, ROI, and effectiveness acro
 metadata:
   display_name: "Trade Spend Roi Analyzer"
   short_description: "Analyze and explain trade spend impact, ROI, and effectiveness across CPG promotional programs..."
+  default_prompt: "Analyze and explain trade spend impact, ROI, and effectiveness across CPG promotional programs and retailer investments"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

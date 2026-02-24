@@ -5,6 +5,7 @@ description: Transform complex clinical and administrative healthcare communicat
 metadata:
   display_name: "Patient Communication Simplifier"
   short_description: "Transform complex clinical and administrative healthcare communications into plain-language..."
+  default_prompt: "Transform complex clinical and administrative healthcare communications into plain-language content calibrated to"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

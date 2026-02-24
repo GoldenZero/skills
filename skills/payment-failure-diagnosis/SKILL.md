@@ -5,6 +5,7 @@ description: Diagnose and explain payment processing failures across ACH, wire t
 metadata:
   display_name: "Payment Failure Diagnosis"
   short_description: "Diagnose and explain payment processing failures across ACH, wire transfer, check, and real-time..."
+  default_prompt: "Diagnose and explain payment processing failures across ACH, wire transfer, check, and real-time payment rails"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

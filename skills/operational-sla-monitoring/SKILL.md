@@ -5,6 +5,7 @@ description: Track, analyze, and explain operational SLA performance for banking
 metadata:
   display_name: "Operational Sla Monitoring"
   short_description: "Track, analyze, and explain operational SLA performance for banking operations functions."
+  default_prompt: "Track, analyze, and explain operational SLA performance for banking operations functions"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

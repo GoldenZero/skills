@@ -5,6 +5,7 @@ description: Check portfolio suitability alignment against client risk tolerance
 metadata:
   display_name: "Risk Tolerance Alignment"
   short_description: "Check portfolio suitability alignment against client risk tolerance, capacity, and investment..."
+  default_prompt: "Check portfolio suitability alignment against client risk tolerance, capacity"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

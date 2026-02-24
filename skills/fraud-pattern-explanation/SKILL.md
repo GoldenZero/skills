@@ -5,6 +5,7 @@ description: Explain transaction fraud signals by analyzing payment, behavioral,
 metadata:
   display_name: "Fraud Pattern Explanation"
   short_description: "Explain transaction fraud signals by analyzing payment, behavioral, and contextual patterns to..."
+  default_prompt: "Explain transaction fraud signals by analyzing payment, behavioral"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

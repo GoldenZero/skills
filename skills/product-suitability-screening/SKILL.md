@@ -5,6 +5,7 @@ description: Screen investment products for suitability alignment with specific 
 metadata:
   display_name: "Product Suitability Screening"
   short_description: "Screen investment products for suitability alignment with specific client profiles per Reg BI..."
+  default_prompt: "Screen investment products for suitability alignment with specific client profiles per Reg BI and fiduciary standards"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

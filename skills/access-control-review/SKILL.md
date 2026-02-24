@@ -5,6 +5,7 @@ description: Review access control risks and segregation of duties in financial 
 metadata:
   display_name: "Access Control Review"
   short_description: "Review access control risks and segregation of duties in financial institutions."
+  default_prompt: "Review access control risks and segregation of duties in financial institutions"
   version: "1.0.0"
   icon_path: "assets/icon.png"
 ---

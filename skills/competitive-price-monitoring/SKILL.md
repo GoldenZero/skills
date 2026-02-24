@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "Competitive Price Monitoring"
   short_description: "Track and analyze competitor pricing to find gaps and opportunities."
+  default_prompt: "Systematically tracks, compares, and analyzes competitor pricing across products, channels, and time periods to"
   version: "1.0.0"
   tags:
     - commerce-intelligence

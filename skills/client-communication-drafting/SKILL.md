@@ -5,6 +5,7 @@ description: Draft regulation-safe client communications for wealth management a
 metadata:
   display_name: "Client Communication Drafting"
   short_description: "Draft regulation-safe client communications for wealth management and advisory relationships."
+  default_prompt: "Draft regulation-safe client communications for wealth management and advisory relationships"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

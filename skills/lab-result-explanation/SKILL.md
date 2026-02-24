@@ -5,6 +5,7 @@ description: Explain laboratory results for clinicians with clinical context, re
 metadata:
   display_name: "Lab Result Explanation"
   short_description: "Explain laboratory results for clinicians with clinical context, reference range interpretation,..."
+  default_prompt: "Explain laboratory results for clinicians"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Guide patients through complex care pathways by generating personal
 metadata:
   display_name: "Care Navigation Assistant"
   short_description: "Guide patients through complex care pathways by generating personalized navigation plans..."
+  default_prompt: "Guide patients through complex care pathways"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

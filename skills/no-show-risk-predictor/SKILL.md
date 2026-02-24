@@ -5,6 +5,7 @@ description: Predict patient appointment no-show probability using multi-factor 
 metadata:
   display_name: "No Show Risk Predictor"
   short_description: "Predict patient appointment no-show probability using multi-factor risk modeling incorporating..."
+  default_prompt: "Predict patient appointment no-show probability using multi-factor risk modeling incorporating historical patterns"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

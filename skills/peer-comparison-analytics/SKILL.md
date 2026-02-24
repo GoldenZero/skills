@@ -5,6 +5,7 @@ description: Compare provider performance metrics against specialty-matched peer
 metadata:
   display_name: "Peer Comparison Analytics"
   short_description: "Compare provider performance metrics against specialty-matched peers using wRVU productivity,..."
+  default_prompt: "Compare provider performance metrics against specialty-matched peers using wRVU productivity"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

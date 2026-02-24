@@ -5,6 +5,7 @@ description: Generate statistically rigorous, testable hypotheses for e-commerce
 metadata:
   display_name: "A/b Test Hypothesis Generator"
   short_description: "Generate statistically rigorous, testable hypotheses for e-commerce content optimization..."
+  default_prompt: "Generate statistically rigorous, testable hypotheses"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

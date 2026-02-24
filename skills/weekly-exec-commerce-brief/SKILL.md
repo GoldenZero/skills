@@ -5,6 +5,7 @@ description: Auto-generate a weekly executive commerce brief with KPIs, trend an
 metadata:
   display_name: "Weekly Exec Commerce Brief"
   short_description: "Auto-generate a weekly executive commerce brief with KPIs, trend analysis, and strategic..."
+  default_prompt: "Auto-generate a weekly executive commerce brief with KPIs, trend analysis, and strategic commentary for CPG leadership"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Identify and score supplier reliability risks across delivery perfo
 metadata:
   display_name: "Supplier Risk Monitor"
   short_description: "Identify and score supplier reliability risks across delivery performance, quality, financial..."
+  default_prompt: "Identify and score supplier reliability risks across delivery performance"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

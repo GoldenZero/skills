@@ -5,6 +5,7 @@ description: Evaluate pricing strategy effectiveness for banking products includ
 metadata:
   display_name: "Pricing Strategy Evaluation"
   short_description: "Evaluate pricing strategy effectiveness for banking products including FTP-adjusted breakeven..."
+  default_prompt: "Evaluate pricing strategy effectiveness for banking products"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

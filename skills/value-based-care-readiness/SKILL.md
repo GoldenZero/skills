@@ -5,6 +5,7 @@ description: Assess organizational readiness for value-based care contracts incl
 metadata:
   display_name: "Value Based Care Readiness"
   short_description: "Assess organizational readiness for value-based care contracts including shared savings, bundled..."
+  default_prompt: "Assess organizational readiness for value-based care contracts including shared savings, bundled payments, capitation"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

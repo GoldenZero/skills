@@ -5,6 +5,7 @@ description: Assess and explain the business impact of regulatory changes on CPG
 metadata:
   display_name: "Regulatory Change Impact"
   short_description: "Assess and explain the business impact of regulatory changes on CPG operations, including FDA..."
+  default_prompt: "Assess and explain the business impact of regulatory changes on CPG operations"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

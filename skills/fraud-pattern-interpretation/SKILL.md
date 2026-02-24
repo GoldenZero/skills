@@ -5,6 +5,7 @@ description: Interpret and explain fraud detection signals, model outputs, and s
 metadata:
   display_name: "Fraud Pattern Interpretation"
   short_description: "Interpret and explain fraud detection signals, model outputs, and suspicious patterns across..."
+  default_prompt: "Interpret and explain fraud detection signals, model outputs"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

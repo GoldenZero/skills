@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "Seasonality Forecasting"
   short_description: "Identify and forecast seasonal demand patterns for inventory and promotions."
+  default_prompt: "Identifies, quantifies, and forecasts seasonal demand patterns"
   version: "1.0.0"
   tags:
     - commerce-intelligence

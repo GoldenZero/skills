@@ -5,6 +5,7 @@ description: Generate enterprise risk heatmap narratives for financial instituti
 metadata:
   display_name: "Enterprise Risk Heatmap Narratives"
   short_description: "Generate enterprise risk heatmap narratives for financial institutions."
+  default_prompt: "Generate enterprise risk heatmap narratives for financial institutions"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

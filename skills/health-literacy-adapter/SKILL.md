@@ -5,6 +5,7 @@ description: Dynamically adjust healthcare content readability and presentation 
 metadata:
   display_name: "Health Literacy Adapter"
   short_description: "Dynamically adjust healthcare content readability and presentation based on assessed health..."
+  default_prompt: "Dynamically adjust healthcare content readability and presentation based on assessed health literacy levels using"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

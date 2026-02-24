@@ -5,6 +5,7 @@ description: Risk-stratify patients into actionable tiers using clinical, utiliz
 metadata:
   display_name: "Patient Stratification Engine"
   short_description: "Risk-stratify patients into actionable tiers using clinical, utilization, and social determinant..."
+  default_prompt: "Risk-stratify patients into actionable tiers using clinical, utilization"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

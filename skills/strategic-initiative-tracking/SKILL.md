@@ -5,6 +5,7 @@ description: Track and report on strategic initiative progress using milestone m
 metadata:
   display_name: "Strategic Initiative Tracking"
   short_description: "Track and report on strategic initiative progress using milestone management, KPI monitoring,..."
+  default_prompt: "Track and report on strategic initiative progress using milestone management, KPI monitoring"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -9,6 +9,7 @@ description: >
 metadata:
   display_name: "Ad Creative Variant Generator"
   short_description: "Generates systematic ad creative variants across copy, visual direction, format, and audience..."
+  default_prompt: "Generate systematic ad creative variants across copy, visual direction, format"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

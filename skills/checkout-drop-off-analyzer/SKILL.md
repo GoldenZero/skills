@@ -5,6 +5,7 @@ description: Diagnose cart abandonment and checkout funnel drop-off by analyzing
 metadata:
   display_name: "Checkout Drop Off Analyzer"
   short_description: "Diagnose cart abandonment and checkout funnel drop-off by analyzing behavioral, technical, and..."
+  default_prompt: "Diagnose cart abandonment and checkout funnel drop-off by analyzing behavioral, technical"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Explain stress liquidity impact scenarios including contingency fun
 metadata:
   display_name: "Stress Liquidity Narratives"
   short_description: "Explain stress liquidity impact scenarios including contingency funding plans, survival horizon..."
+  default_prompt: "Explain stress liquidity impact scenarios including contingency funding plans, survival horizon analysis, stress LCR"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

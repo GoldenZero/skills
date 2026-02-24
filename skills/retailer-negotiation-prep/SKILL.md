@@ -5,6 +5,7 @@ description: Prepare structured negotiation talking points, BATNA analysis, and 
 metadata:
   display_name: "Retailer Negotiation Prep"
   short_description: "Prepare structured negotiation talking points, BATNA analysis, and trade term strategies for..."
+  default_prompt: "Prepare structured negotiation talking points, BATNA analysis, and trade term strategies for CPG-retailer negotiations"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

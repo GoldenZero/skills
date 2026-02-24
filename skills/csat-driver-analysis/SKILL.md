@@ -5,6 +5,7 @@ description: Explain changes in Customer Satisfaction (CSAT) scores by decomposi
 metadata:
   display_name: "Csat Driver Analysis"
   short_description: "Explain changes in Customer Satisfaction (CSAT) scores by decomposing them into contributing..."
+  default_prompt: "Explain changes in Customer Satisfaction (CSAT) scores"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Generate board-safe risk dashboard narratives covering credit, mark
 metadata:
   display_name: "Board Risk Dashboards Narratives"
   short_description: "Generate board-safe risk dashboard narratives covering credit, market, liquidity, operational,..."
+  default_prompt: "Generate board-safe risk dashboard narratives covering credit, market, liquidity, operational"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

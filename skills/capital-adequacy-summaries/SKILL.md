@@ -5,6 +5,7 @@ description: Summarize capital adequacy positions including CET1, Tier 1, Total 
 metadata:
   display_name: "Capital Adequacy Summaries"
   short_description: "Summarize capital adequacy positions including CET1, Tier 1, Total Capital ratios, RWA..."
+  default_prompt: "Summarize capital adequacy positions including CET1, Tier 1, Total Capital ratios, RWA decomposition, leverage ratio"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

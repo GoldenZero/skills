@@ -5,6 +5,7 @@ description: Conduct clinical due diligence for healthcare mergers, acquisitions
 metadata:
   display_name: "Ma Clinical Diligence"
   short_description: "Conduct clinical due diligence for healthcare mergers, acquisitions, partnerships, and joint..."
+  default_prompt: "Conduct clinical due diligence for healthcare mergers, acquisitions, partnerships, and joint ventures"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Calculate return on investment for clinical programs including care
 metadata:
   display_name: "Clinical Program Roi Analysis"
   short_description: "Calculate return on investment for clinical programs including care management, disease..."
+  default_prompt: "Calculate return on investment for clinical programs including care management, disease management, transitional care"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Cohort and segment chronic disease patient populations using clinic
 metadata:
   display_name: "Chronic Condition Cohorting"
   short_description: "Cohort and segment chronic disease patient populations using clinical registries, claims data,..."
+  default_prompt: "Cohort and segment chronic disease patient populations using clinical registries, claims data, and risk models"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

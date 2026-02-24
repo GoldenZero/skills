@@ -5,6 +5,7 @@ description: Diagnose why product returns are happening by classifying return re
 metadata:
   display_name: "Returns Root Cause Analysis"
   short_description: "Diagnose why product returns are happening by classifying return reasons, identifying systemic..."
+  default_prompt: "Diagnose why product returns are happening"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

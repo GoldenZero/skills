@@ -5,6 +5,7 @@ description: Recommend optimal product placement within warehouse zones and pick
 metadata:
   display_name: "Warehouse Slotting Optimizer"
   short_description: "Recommend optimal product placement within warehouse zones and pick locations using..."
+  default_prompt: "Recommend optimal product placement within warehouse zones and pick locations using velocity-based slotting"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

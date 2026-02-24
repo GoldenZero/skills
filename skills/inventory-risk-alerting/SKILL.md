@@ -5,6 +5,7 @@ description: Flag overstock and stockout risks across the inventory portfolio by
 metadata:
   display_name: "Inventory Risk Alerting"
   short_description: "Flag overstock and stockout risks across the inventory portfolio by computing weeks of supply,..."
+  default_prompt: "Flag overstock and stockout risks across the inventory portfolio"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

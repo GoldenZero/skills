@@ -5,6 +5,7 @@ description: Assess and summarize collateral risk for secured lending decisions 
 metadata:
   display_name: "Collateral Risk Summaries"
   short_description: "Assess and summarize collateral risk for secured lending decisions including real estate,..."
+  default_prompt: "Assess and summarize collateral risk for secured lending decisions including real estate, equipment, inventory"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

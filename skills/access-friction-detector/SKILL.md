@@ -5,6 +5,7 @@ description: Systematically identify and quantify barriers to healthcare access 
 metadata:
   display_name: "Access Friction Detector"
   short_description: "Systematically identify and quantify barriers to healthcare access across scheduling,..."
+  default_prompt: "Systematically identify and quantify barriers to healthcare access across scheduling, geographic, financial, cultural"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

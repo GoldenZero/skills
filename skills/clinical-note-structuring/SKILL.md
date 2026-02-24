@@ -5,6 +5,7 @@ description: Structure unstructured clinical notes into standardized SOAP format
 metadata:
   display_name: "Clinical Note Structuring"
   short_description: "Structure unstructured clinical notes into standardized SOAP format with coded diagnoses,..."
+  default_prompt: "Structure unstructured clinical notes into standardized SOAP format with coded diagnoses, procedure mappings"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

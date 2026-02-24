@@ -5,6 +5,7 @@ description: Explain portfolio drift from target allocations in client-friendly 
 metadata:
   display_name: "Portfolio Drift Explanation"
   short_description: "Explain portfolio drift from target allocations in client-friendly language with actionable..."
+  default_prompt: "Explain portfolio drift from target allocations in client-friendly language with actionable rebalancing guidance"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

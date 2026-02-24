@@ -5,6 +5,7 @@ description: Generate CMS-compliant, health-literacy-appropriate discharge instr
 metadata:
   display_name: "Discharge Instruction Generator"
   short_description: "Generate CMS-compliant, health-literacy-appropriate discharge instruction sets covering..."
+  default_prompt: "Generate CMS-compliant, health-literacy-appropriate discharge instruction sets covering medication reconciliation"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

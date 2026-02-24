@@ -5,6 +5,7 @@ description: Validate product claims against FTC, FDA, EPA, and retailer-specifi
 metadata:
   display_name: "Claims Compliance Checker"
   short_description: "Validate product claims against FTC, FDA, EPA, and retailer-specific regulatory frameworks for..."
+  default_prompt: "Validate product claims against FTC, FDA, EPA"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

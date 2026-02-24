@@ -5,6 +5,7 @@ description: Generate executive-ready narratives explaining liquidity forecasts,
 metadata:
   display_name: "Liquidity Forecast Narratives"
   short_description: "Generate executive-ready narratives explaining liquidity forecasts, LCR/NSFR positions, HQLA..."
+  default_prompt: "Generate executive-ready narratives explaining liquidity forecasts, LCR/NSFR positions, HQLA composition"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

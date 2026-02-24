@@ -5,6 +5,7 @@ description: Validate prior authorization request completeness against payer-spe
 metadata:
   display_name: "Prior Auth Readiness Checker"
   short_description: "Validate prior authorization request completeness against payer-specific requirements including..."
+  default_prompt: "Validate prior authorization request completeness against payer-specific requirements"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

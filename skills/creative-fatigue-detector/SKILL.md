@@ -9,6 +9,7 @@ description: >
 metadata:
   display_name: "Creative Fatigue Detector"
   short_description: "Analyzes ad performance data to detect creative fatigue signals and recommends refresh..."
+  default_prompt: "Analyze ad performance data to detect creative fatigue signals and recommends refresh strategies"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

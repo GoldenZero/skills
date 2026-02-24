@@ -5,6 +5,7 @@ description: Enforce data access policies and rules for protected health informa
 metadata:
   display_name: "Data Access Governance"
   short_description: "Enforce data access policies and rules for protected health information by defining role-based..."
+  default_prompt: "Enforce data access policies and rules for protected health information"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

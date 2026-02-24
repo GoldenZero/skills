@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "Price Elasticity Estimator"
   short_description: "Estimate price elasticity of demand to model volume impact of price changes."
+  default_prompt: "Estimates price elasticity of demand for retail/CPG products using historical sales and pricing data to quantify the"
   version: "1.0.0"
   tags:
     - commerce-intelligence

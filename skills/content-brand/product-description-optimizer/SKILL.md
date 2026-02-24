@@ -5,6 +5,7 @@ description: Generate and optimize SEO-rich, conversion-focused product detail p
 metadata:
   display_name: "Product Description Optimizer"
   short_description: "Generate and optimize SEO-rich, conversion-focused product detail page (PDP) copy for CPG and..."
+  default_prompt: "Generate and optimize SEO-rich, conversion-focused product detail page (PDP) copy"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

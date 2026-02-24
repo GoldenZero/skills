@@ -5,6 +5,7 @@ description: Generate store-level playbooks that translate performance gaps into
 metadata:
   display_name: "Associate Enablement Coach"
   short_description: "Generate store-level playbooks that translate performance gaps into actionable coaching scripts,..."
+  default_prompt: "Generate store-level playbooks that translate performance gaps into actionable coaching scripts, training priorities"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

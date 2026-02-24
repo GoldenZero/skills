@@ -5,6 +5,7 @@ description: Generate incident postmortem reviews for financial institution oper
 metadata:
   display_name: "Incident Postmortem Generator"
   short_description: "Generate incident postmortem reviews for financial institution operational events."
+  default_prompt: "Generate incident postmortem reviews for financial institution operational events"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

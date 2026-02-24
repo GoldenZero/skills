@@ -5,6 +5,7 @@ description: Adapt CPG and retail e-commerce content for target markets with cul
 metadata:
   display_name: "Localization & Cultural Adaptation"
   short_description: "Adapt CPG and retail e-commerce content for target markets with culturally resonant messaging,..."
+  default_prompt: "Adapt CPG and retail e-commerce content for target markets"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

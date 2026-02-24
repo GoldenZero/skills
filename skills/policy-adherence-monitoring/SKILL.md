@@ -5,6 +5,7 @@ description: Track and evaluate clinical guideline compliance across providers, 
 metadata:
   display_name: "Policy Adherence Monitoring"
   short_description: "Track and evaluate clinical guideline compliance across providers, departments, and service..."
+  default_prompt: "Track and evaluate clinical guideline compliance across providers, departments"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

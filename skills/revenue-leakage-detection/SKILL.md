@@ -5,6 +5,7 @@ description: Identify sources of lost revenue across the revenue cycle including
 metadata:
   display_name: "Revenue Leakage Detection"
   short_description: "Identify sources of lost revenue across the revenue cycle including missed charges, coding..."
+  default_prompt: "Identify sources of lost revenue across the revenue cycle"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

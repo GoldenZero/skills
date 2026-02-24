@@ -5,6 +5,7 @@ description: Tailor product content to meet the unique style guides, character l
 metadata:
   display_name: "Retailer Content Customizer"
   short_description: "Tailor product content to meet the unique style guides, character limits, taxonomy rules, and..."
+  default_prompt: "Tailor product content to meet the unique style guides, character limits, taxonomy rules"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

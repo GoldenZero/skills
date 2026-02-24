@@ -5,6 +5,7 @@ description: Predict provider capacity shortages and surpluses using demand mode
 metadata:
   display_name: "Provider Capacity Forecasting"
   short_description: "Predict provider capacity shortages and surpluses using demand modeling, wRVU productivity..."
+  default_prompt: "Predict provider capacity shortages and surpluses using demand modeling"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

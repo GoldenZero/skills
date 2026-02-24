@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "Churn Risk Detection"
   short_description: "Detects and scores customer churn risk for CPG and retail e-commerce brands using behavioral..."
+  default_prompt: "Detect and scores customer churn risk for CPG and retail e-commerce brands using behavioral signals"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Identify inefficiencies in clinical workflows through process analy
 metadata:
   display_name: "Clinical Workflow Optimization"
   short_description: "Identify inefficiencies in clinical workflows through process analysis, bottleneck detection,..."
+  default_prompt: "Identify inefficiencies in clinical workflows through process analysis, bottleneck detection"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

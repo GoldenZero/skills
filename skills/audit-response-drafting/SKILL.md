@@ -5,6 +5,7 @@ description: Draft regulator-ready audit responses, MRA/MRIA remediation plans, 
 metadata:
   display_name: "Audit Response Drafting"
   short_description: "Draft regulator-ready audit responses, MRA/MRIA remediation plans, and examination finding..."
+  default_prompt: "Draft regulator-ready audit responses, MRA/MRIA remediation plans"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

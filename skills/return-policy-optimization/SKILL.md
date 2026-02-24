@@ -5,6 +5,7 @@ description: Recommend data-driven return policy changes by analyzing return pat
 metadata:
   display_name: "Return Policy Optimization"
   short_description: "Recommend data-driven return policy changes by analyzing return patterns, cost structures,..."
+  default_prompt: "Recommend data-driven return policy changes by analyzing return patterns, cost structures, customer behavior impacts"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

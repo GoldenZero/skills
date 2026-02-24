@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "Upsell Timing Optimizer"
   short_description: "Determines the optimal timing, trigger conditions, and offer structure for upsell opportunities..."
+  default_prompt: "Determines the optimal timing, trigger conditions"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

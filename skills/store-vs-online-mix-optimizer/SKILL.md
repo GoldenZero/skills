@@ -11,6 +11,7 @@ description: >
 metadata:
   display_name: "Store vs. Online Mix Optimizer"
   short_description: "Optimize allocation between in-store and e-commerce channels."
+  default_prompt: "Analyze and optimizes the allocation of products, inventory, promotions"
   version: "1.0.0"
   tags:
     - commerce-intelligence

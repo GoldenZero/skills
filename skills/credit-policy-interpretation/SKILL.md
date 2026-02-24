@@ -5,6 +5,7 @@ description: Explain credit policy rules, exceptions, and eligibility criteria i
 metadata:
   display_name: "Credit Policy Interpretation"
   short_description: "Explain credit policy rules, exceptions, and eligibility criteria in plain language."
+  default_prompt: "Explain credit policy rules, exceptions, and eligibility criteria in plain language"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

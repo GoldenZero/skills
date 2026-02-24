@@ -5,6 +5,7 @@ description: Generate optimal reorder quantities and timing using Economic Order
 metadata:
   display_name: "Replenishment Recommendation"
   short_description: "Generate optimal reorder quantities and timing using Economic Order Quantity, safety stock..."
+  default_prompt: "Generate optimal reorder quantities and timing using Economic Order Quantity, safety stock models"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

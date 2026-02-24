@@ -5,6 +5,7 @@ description: Assess clinical documentation quality and completeness by evaluatin
 metadata:
   display_name: "Clinical Documentation Quality"
   short_description: "Assess clinical documentation quality and completeness by evaluating medical record entries..."
+  default_prompt: "Assess clinical documentation quality and completeness"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

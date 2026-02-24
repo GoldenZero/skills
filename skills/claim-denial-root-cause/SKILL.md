@@ -5,6 +5,7 @@ description: Analyze claim denial reasons using CARC/RARC codes, payer-specific 
 metadata:
   display_name: "Claim Denial Root Cause"
   short_description: "Analyze claim denial reasons using CARC/RARC codes, payer-specific rules, and billing data to..."
+  default_prompt: "Analyze claim denial reasons using CARC/RARC codes, payer-specific rules"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

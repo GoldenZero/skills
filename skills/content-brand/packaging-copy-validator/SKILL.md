@@ -5,6 +5,7 @@ description: Validate on-pack and digital packaging copy against legal mandates,
 metadata:
   display_name: "Packaging Copy Validator"
   short_description: "Validate on-pack and digital packaging copy against legal mandates, marketing claims policy,..."
+  default_prompt: "Validate on-pack and digital packaging copy against legal mandates"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Interpret and explain healthcare regulation updates including CMS f
 metadata:
   display_name: "Regulatory Change Interpreter"
   short_description: "Interpret and explain healthcare regulation updates including CMS final rules, HIPAA..."
+  default_prompt: "Interpret and explain healthcare regulation updates"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

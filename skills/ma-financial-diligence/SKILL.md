@@ -5,6 +5,7 @@ description: Conduct M&A financial due diligence analysis for bank acquisitions 
 metadata:
   display_name: "M&A Financial Diligence"
   short_description: "Conduct M&A financial due diligence for bank acquisitions and merger economics."
+  default_prompt: "Conduct M&A financial due diligence analysis for bank acquisitions"
   version: "1.0.0"
   icon_path: "assets/icon.png"
 ---

@@ -5,6 +5,7 @@ description: Validate ICD-10-CM diagnosis and CPT/HCPCS procedure code accuracy 
 metadata:
   display_name: "Coding Accuracy Validator"
   short_description: "Validate ICD-10-CM diagnosis and CPT/HCPCS procedure code accuracy against clinical..."
+  default_prompt: "Validate ICD-10-CM diagnosis and CPT/HCPCS procedure code accuracy against clinical documentation"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

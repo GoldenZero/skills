@@ -5,6 +5,7 @@ description: Assess vendor and business associate risk for healthcare organizati
 metadata:
   display_name: "Third Party Risk Review"
   short_description: "Assess vendor and business associate risk for healthcare organizations by evaluating BAA..."
+  default_prompt: "Assess vendor and business associate risk for healthcare organizations"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

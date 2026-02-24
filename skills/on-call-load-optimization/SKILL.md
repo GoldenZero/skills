@@ -5,6 +5,7 @@ description: Balance on-call schedules fairly across providers by analyzing call
 metadata:
   display_name: "On Call Load Optimization"
   short_description: "Balance on-call schedules fairly across providers by analyzing call burden distribution,..."
+  default_prompt: "Balance on-call schedules fairly across providers"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

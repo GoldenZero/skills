@@ -5,6 +5,7 @@ description: Identify and evaluate automation opportunities in banking operation
 metadata:
   display_name: "Ops Automation Opportunity Finder"
   short_description: "Identify and evaluate automation opportunities in banking operations using structured assessment..."
+  default_prompt: "Identify and evaluate automation opportunities in banking operations using structured assessment frameworks"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

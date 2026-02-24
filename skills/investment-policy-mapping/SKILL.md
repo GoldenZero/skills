@@ -5,6 +5,7 @@ description: Map client portfolios against their Investment Policy Statement (IP
 metadata:
   display_name: "Investment Policy Mapping"
   short_description: "Map client portfolios against their Investment Policy Statement (IPS) to verify compliance with..."
+  default_prompt: "Map client portfolios against their Investment Policy Statement (IPS) to verify compliance"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

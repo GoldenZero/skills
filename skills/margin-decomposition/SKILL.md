@@ -5,6 +5,7 @@ description: Decompose and explain margin erosion or expansion drivers across CP
 metadata:
   display_name: "Margin Decomposition"
   short_description: "Decompose and explain margin erosion or expansion drivers across CPG P&L layers using waterfall..."
+  default_prompt: "Decompose and explain margin erosion or expansion drivers across CPG P&L layers using waterfall analysis"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

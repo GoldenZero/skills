@@ -5,6 +5,7 @@ description: Generate comprehensive root cause analysis (RCA) drafts for adverse
 metadata:
   display_name: "Root Cause Analysis Generator"
   short_description: "Generate comprehensive root cause analysis (RCA) drafts for adverse events and sentinel events..."
+  default_prompt: "Generate comprehensive root cause analysis (RCA) drafts"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

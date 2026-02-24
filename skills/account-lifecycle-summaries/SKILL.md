@@ -5,6 +5,7 @@ description: Generate comprehensive account history narratives covering the full
 metadata:
   display_name: "Account Lifecycle Summaries"
   short_description: "Generate comprehensive account history narratives covering the full lifecycle from opening..."
+  default_prompt: "Generate comprehensive account history narratives covering the full lifecycle from opening through closure"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

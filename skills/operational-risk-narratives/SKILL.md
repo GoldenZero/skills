@@ -5,6 +5,7 @@ description: Analyze operational risk events and produce structured loss event n
 metadata:
   display_name: "Operational Risk Narratives"
   short_description: "Analyze operational risk events and produce structured loss event narratives, root cause..."
+  default_prompt: "Analyze operational risk events and produce structured loss event narratives, root cause analyses, and OpRisk reports"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

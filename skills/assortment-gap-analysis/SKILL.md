@@ -10,6 +10,7 @@ description: >
 metadata:
   display_name: "Assortment Gap Analysis"
   short_description: "Identify assortment gaps by comparing catalog to demand and competitors."
+  default_prompt: "Identify gaps in a retailer's or e-commerce platform's product assortment"
   version: "1.0.0"
   tags:
     - commerce-intelligence

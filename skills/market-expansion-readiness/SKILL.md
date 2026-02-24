@@ -5,6 +5,7 @@ description: Analyze new market or region viability for CPG expansion with struc
 metadata:
   display_name: "Market Expansion Readiness"
   short_description: "Analyze new market or region viability for CPG expansion with structured scoring across demand,..."
+  default_prompt: "Analyze new market or region viability for CPG expansion"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

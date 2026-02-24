@@ -5,6 +5,7 @@ description: Recommend targeted actions from Net Promoter Score data by segmenti
 metadata:
   display_name: "Nps Action Planner"
   short_description: "Recommend targeted actions from Net Promoter Score data by segmenting promoters, passives, and..."
+  default_prompt: "Recommend targeted actions from Net Promoter Score data by segmenting promoters, passives"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Analyze CPG commercial contracts to highlight risky clauses, unfavo
 metadata:
   display_name: "Contract Clause Analyzer"
   short_description: "Analyze CPG commercial contracts to highlight risky clauses, unfavorable terms, and missing..."
+  default_prompt: "Analyze CPG commercial contracts to highlight risky clauses, unfavorable terms"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

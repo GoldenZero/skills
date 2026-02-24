@@ -5,6 +5,7 @@ description: Explain Asset-Liability Management scenarios including gap analysis
 metadata:
   display_name: "Alm Scenario Explanation"
   short_description: "Explain Asset-Liability Management scenarios including gap analysis, NII/EVE projections, ALCO..."
+  default_prompt: "Explain Asset-Liability Management scenarios including gap analysis, NII/EVE projections, ALCO decision frameworks"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

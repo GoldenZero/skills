@@ -5,6 +5,7 @@ description: Track and manage provider credentialing and privileging lifecycles 
 metadata:
   display_name: "Credentialing Status Monitor"
   short_description: "Track and manage provider credentialing and privileging lifecycles using CAQH workflow..."
+  default_prompt: "Track and manage provider credentialing and privileging lifecycles using CAQH workflow standards"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

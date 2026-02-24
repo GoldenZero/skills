@@ -5,6 +5,7 @@ description: Generate comprehensive meeting preparation briefs for financial adv
 metadata:
   display_name: "Advisor Prep Briefs"
   short_description: "Generate comprehensive meeting preparation briefs for financial advisors before client reviews."
+  default_prompt: "Generate comprehensive meeting preparation briefs for financial advisors before client reviews"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

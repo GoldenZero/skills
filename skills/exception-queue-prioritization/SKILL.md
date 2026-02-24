@@ -5,6 +5,7 @@ description: Prioritize and triage operations exception queues across banking fu
 metadata:
   display_name: "Exception Queue Prioritization"
   short_description: "Prioritize and triage operations exception queues across banking functions."
+  default_prompt: "Prioritize and triage operations exception queues across banking functions"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

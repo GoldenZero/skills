@@ -5,6 +5,7 @@ description: Identify cost-saving opportunities across transportation, warehousi
 metadata:
   display_name: "Logistics Cost Optimization"
   short_description: "Identify cost-saving opportunities across transportation, warehousing, and last-mile delivery by..."
+  default_prompt: "Identify cost-saving opportunities across transportation, warehousing"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

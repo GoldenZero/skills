@@ -5,6 +5,7 @@ description: Generate timeline-based patient summaries that synthesize clinical 
 metadata:
   display_name: "Longitudinal Patient Summaries"
   short_description: "Generate timeline-based patient summaries that synthesize clinical events, diagnoses,..."
+  default_prompt: "Generate timeline-based patient summaries that synthesize clinical events, diagnoses, treatments"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

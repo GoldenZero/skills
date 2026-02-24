@@ -5,6 +5,7 @@ description: Validate CPG advertising content for compliance with FTC Act, NAD g
 metadata:
   display_name: "Advertising Compliance Checker"
   short_description: "Validate CPG advertising content for compliance with FTC Act, NAD guidelines, FDA regulations,..."
+  default_prompt: "Validate CPG advertising content for compliance with FTC Act, NAD guidelines, FDA regulations"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

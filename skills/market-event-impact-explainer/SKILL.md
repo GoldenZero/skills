@@ -5,6 +5,7 @@ description: Explain market event impact on client portfolios in plain language 
 metadata:
   display_name: "Market Event Impact Explainer"
   short_description: "Explain market event impact on client portfolios in plain language with actionable context."
+  default_prompt: "Explain market event impact on client portfolios in plain language with actionable context"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

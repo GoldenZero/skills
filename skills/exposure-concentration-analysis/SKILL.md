@@ -5,6 +5,7 @@ description: Analyze portfolio concentration risks across borrower, industry, ge
 metadata:
   display_name: "Exposure Concentration Analysis"
   short_description: "Analyze portfolio concentration risks across borrower, industry, and geography."
+  default_prompt: "Analyze portfolio concentration risks across borrower, industry, geography, product, and collateral dimensions"
   version: "1.0.0"
   icon_path: "assets/icon.png"
 ---

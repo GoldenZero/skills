@@ -5,6 +5,7 @@ description: Generate vendor and third-party risk assessment summaries for finan
 metadata:
   display_name: "Third Party Risk Summaries"
   short_description: "Generate vendor and third-party risk assessment summaries for financial institutions."
+  default_prompt: "Generate vendor and third-party risk assessment summaries for financial institutions"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

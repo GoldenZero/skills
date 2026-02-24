@@ -5,6 +5,7 @@ description: Perform root cause analysis on banking customer complaints and oper
 metadata:
   display_name: "Customer Issue Root Cause"
   short_description: "Perform root cause analysis on banking customer complaints and operational issues."
+  default_prompt: "Perform root cause analysis on banking customer complaints and operational issues"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

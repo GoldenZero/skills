@@ -5,6 +5,7 @@ description: Simulate CPG pricing strategies including cost pass-through, promot
 metadata:
   display_name: "Pricing Strategy Simulator"
   short_description: "Simulate CPG pricing strategies including cost pass-through, promotional pricing, EDLP/Hi-Lo..."
+  default_prompt: "Simulate CPG pricing strategies including cost pass-through, promotional pricing, EDLP/Hi-Lo analysis"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

@@ -5,6 +5,7 @@ description: Predict prior authorization processing timelines and identify delay
 metadata:
   display_name: "Authorization Timeline Predictor"
   short_description: "Predict prior authorization processing timelines and identify delay risk factors by analyzing..."
+  default_prompt: "Predict prior authorization processing timelines and identify delay risk factors"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"

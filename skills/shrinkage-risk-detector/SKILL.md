@@ -5,6 +5,7 @@ description: Flag theft, fraud, and process-failure risk patterns by analyzing i
 metadata:
   display_name: "Shrinkage Risk Detector"
   short_description: "Flag theft, fraud, and process-failure risk patterns by analyzing inventory variance,..."
+  default_prompt: "Flag theft, fraud, and process-failure risk patterns"
 
   version: "1.0.0"
   icon_path: "assets/icon.png"
