@@ -7,6 +7,7 @@ metadata:
   short_description: "Systematically identify and quantify barriers to healthcare access across scheduling,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Access Friction Detector

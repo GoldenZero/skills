@@ -14,6 +14,7 @@ metadata:
   tags:
     - commerce-intelligence
     - private-label-opportunity-finder
+  icon_path: "assets/icon.png"
 ---
 
 # Private Label Opportunity Finder

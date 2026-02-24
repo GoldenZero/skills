@@ -7,6 +7,7 @@ metadata:
   short_description: "Prepare audit-ready documentation packages for internal audits, external audits, regulatory..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Audit Prep Assistant

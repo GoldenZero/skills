@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze policy exceptions for risk patterns, concentration risks, and control gaps in financial..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Policy Exception Review

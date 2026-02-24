@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate enterprise risk heatmap narratives for financial institutions."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Enterprise Risk Heatmap Narratives

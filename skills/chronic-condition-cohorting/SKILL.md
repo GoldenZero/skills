@@ -7,6 +7,7 @@ metadata:
   short_description: "Cohort and segment chronic disease patient populations using clinical registries, claims data,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Chronic Condition Cohorting

@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and evaluate automation opportunities in banking operations using structured assessment..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Ops Automation Opportunity Finder

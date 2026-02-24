@@ -7,6 +7,7 @@ metadata:
   short_description: "Track and manage provider credentialing and privileging lifecycles using CAQH workflow..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Credentialing Status Monitor

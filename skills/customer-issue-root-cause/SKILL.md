@@ -7,6 +7,7 @@ metadata:
   short_description: "Perform root cause analysis on banking customer complaints and operational issues."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Customer Issue Root Cause Analysis

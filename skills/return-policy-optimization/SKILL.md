@@ -7,6 +7,7 @@ metadata:
   short_description: "Recommend data-driven return policy changes by analyzing return patterns, cost structures,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Return Policy Optimization

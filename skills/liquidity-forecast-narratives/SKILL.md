@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate executive-ready narratives explaining liquidity forecasts, LCR/NSFR positions, HQLA..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Liquidity Forecast Narratives

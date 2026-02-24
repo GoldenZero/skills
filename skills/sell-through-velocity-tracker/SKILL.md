@@ -7,6 +7,7 @@ metadata:
   short_description: "Track product sell-through velocity against category benchmarks, seasonal expectations, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Sell-Through Velocity Tracker

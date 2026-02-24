@@ -7,6 +7,7 @@ metadata:
   short_description: "Recommend optimal product placement within warehouse zones and pick locations using..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Warehouse Slotting Optimizer

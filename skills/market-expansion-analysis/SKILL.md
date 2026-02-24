@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze viability of new clinic locations, facility expansions, or market entry for healthcare..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Market Expansion Analysis

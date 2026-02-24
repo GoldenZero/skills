@@ -7,6 +7,7 @@ metadata:
   short_description: "Predict patient appointment no-show probability using multi-factor risk modeling incorporating..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # No-Show Risk Predictor

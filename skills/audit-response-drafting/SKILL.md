@@ -7,6 +7,7 @@ metadata:
   short_description: "Draft regulator-ready audit responses, MRA/MRIA remediation plans, and examination finding..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Audit Response Drafting

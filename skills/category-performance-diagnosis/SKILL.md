@@ -13,6 +13,7 @@ metadata:
   tags:
     - commerce-intelligence
     - category-performance-diagnosis
+  icon_path: "assets/icon.png"
 ---
 
 # Category Performance Diagnosis

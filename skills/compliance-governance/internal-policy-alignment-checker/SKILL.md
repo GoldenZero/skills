@@ -7,6 +7,7 @@ metadata:
   short_description: "Ensure CPG business activities align with internal policies on pricing, trade spend,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Internal Policy Alignment Checker

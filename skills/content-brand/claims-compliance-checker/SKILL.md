@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate product claims against FTC, FDA, EPA, and retailer-specific regulatory frameworks for..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Claims Compliance Checker

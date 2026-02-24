@@ -7,6 +7,7 @@ metadata:
   short_description: "Prioritize and triage operations exception queues across banking functions."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Exception Queue Prioritization

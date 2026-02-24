@@ -7,6 +7,7 @@ metadata:
   short_description: "Prepare structured negotiation talking points, BATNA analysis, and trade term strategies for..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Retailer Negotiation Prep

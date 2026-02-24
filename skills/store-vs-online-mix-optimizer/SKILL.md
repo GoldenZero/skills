@@ -15,6 +15,7 @@ metadata:
   tags:
     - commerce-intelligence
     - store-vs-online-mix-optimizer
+  icon_path: "assets/icon.png"
 ---
 
 # Store vs. Online Mix Optimizer

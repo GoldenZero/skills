@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and track health disparities across race, ethnicity, socioeconomic status, geography,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Health Equity Monitoring

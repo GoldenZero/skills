@@ -7,6 +7,7 @@ metadata:
   short_description: "Detect and explain risk drift in lending portfolios over time using vintage analysis, migration..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Portfolio Risk Drift Detection

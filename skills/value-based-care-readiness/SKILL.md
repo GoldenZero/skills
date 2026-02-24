@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess organizational readiness for value-based care contracts including shared savings, bundled..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Value-Based Care Readiness

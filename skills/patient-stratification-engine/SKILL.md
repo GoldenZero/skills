@@ -7,6 +7,7 @@ metadata:
   short_description: "Risk-stratify patients into actionable tiers using clinical, utilization, and social determinant..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Patient Stratification Engine

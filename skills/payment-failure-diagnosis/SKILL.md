@@ -7,6 +7,7 @@ metadata:
   short_description: "Diagnose and explain payment processing failures across ACH, wire transfer, check, and real-time..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Payment Failure Diagnosis

@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate evidence-based diagnostic summaries by synthesizing clinical findings, test results,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Diagnostic Support Summaries

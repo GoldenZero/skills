@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate CPG advertising content for compliance with FTC Act, NAD guidelines, FDA regulations,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Advertising Compliance Checker

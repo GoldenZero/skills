@@ -7,6 +7,7 @@ metadata:
   short_description: "Track, analyze, and explain operational SLA performance for banking operations functions."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Operational SLA Monitoring

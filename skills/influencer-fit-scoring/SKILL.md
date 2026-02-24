@@ -12,6 +12,7 @@ metadata:
   short_description: "Scores and ranks influencers for brand partnership fit using a multi-dimensional framework..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Influencer Fit Scoring

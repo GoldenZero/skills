@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate ICD-10-CM diagnosis and CPT/HCPCS procedure code accuracy against clinical..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Coding Accuracy Validator

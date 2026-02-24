@@ -7,6 +7,7 @@ metadata:
   short_description: "Draft regulation-safe client communications for wealth management and advisory relationships."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Client Communication Drafting

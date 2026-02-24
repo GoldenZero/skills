@@ -7,6 +7,7 @@ metadata:
   short_description: "Decompose and explain margin erosion or expansion drivers across CPG P&L layers using waterfall..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Margin Decomposition

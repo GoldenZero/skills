@@ -11,6 +11,7 @@ metadata:
   short_description: "Analyzes ad performance data to detect creative fatigue signals and recommends refresh..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Creative Fatigue Detector

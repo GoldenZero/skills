@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess vendor and business associate risk for healthcare organizations by evaluating BAA..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Third-Party Risk Review

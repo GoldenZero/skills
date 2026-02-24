@@ -7,6 +7,7 @@ metadata:
   short_description: "Auto-generate executive-ready store performance insights by synthesizing KPIs across sales,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Store Performance Narratives

@@ -7,6 +7,7 @@ metadata:
   short_description: "Summarize patient care journeys across encounters into concise clinical pathway narratives with..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Care Pathway Summarization

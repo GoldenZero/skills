@@ -12,6 +12,7 @@ metadata:
   short_description: "Detects and scores customer churn risk for CPG and retail e-commerce brands using behavioral..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Churn Risk Detection

@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze product-level profitability using FTP-adjusted margins, fully allocated costs, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Product-Level Profitability Analysis

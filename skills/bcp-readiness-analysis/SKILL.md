@@ -6,7 +6,7 @@ metadata:
   display_name: "Bcp Readiness Analysis"
   short_description: "Analyze business continuity planning readiness for financial institutions."
   version: "1.0.0"
-
+  icon_path: "assets/icon.png"
 ---
 
 # Business Continuity Planning Readiness Analysis

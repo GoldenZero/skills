@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate professionally structured, evidence-based appeal letters for claim denials, prior..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Appeal Letter Generator

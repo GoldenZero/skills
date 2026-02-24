@@ -7,6 +7,7 @@ metadata:
   short_description: "End-to-end patient journey mapping and analysis across care episodes, identifying friction..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Patient Journey Mapping

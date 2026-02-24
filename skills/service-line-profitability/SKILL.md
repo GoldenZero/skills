@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze profitability by clinical service line using contribution margin analysis, cost..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Service Line Profitability

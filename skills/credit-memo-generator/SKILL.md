@@ -6,6 +6,7 @@ metadata:
   display_name: "Credit Memo Generator"
   short_description: "Generate investment-grade credit memoranda for commercial and institutional lending."
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Credit Memo Generator

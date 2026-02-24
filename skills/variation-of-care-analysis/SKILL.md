@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and analyze unwarranted variation in clinical care delivery across providers,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Variation of Care Analysis

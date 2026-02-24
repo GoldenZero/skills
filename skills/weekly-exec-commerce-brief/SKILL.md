@@ -7,6 +7,7 @@ metadata:
   short_description: "Auto-generate a weekly executive commerce brief with KPIs, trend analysis, and strategic..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Weekly Executive Commerce Brief

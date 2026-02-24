@@ -7,6 +7,7 @@ metadata:
   short_description: "Map and analyze customer journeys across digital and physical retail channels, identifying..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Omnichannel Journey Mapper

@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze new market or region viability for CPG expansion with structured scoring across demand,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Market Expansion Readiness Assessment

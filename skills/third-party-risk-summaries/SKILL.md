@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate vendor and third-party risk assessment summaries for financial institutions."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Third-Party Risk Assessment Summaries

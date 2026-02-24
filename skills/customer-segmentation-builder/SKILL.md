@@ -12,6 +12,7 @@ metadata:
   short_description: "Builds actionable customer segments for CPG and retail e-commerce using RFM analysis, behavioral..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Customer Segmentation Builder

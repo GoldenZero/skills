@@ -7,6 +7,7 @@ metadata:
   short_description: "Interpret and explain payer-specific coverage policies, medical necessity criteria, benefit..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Payer Rule Interpretation

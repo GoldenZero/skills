@@ -14,6 +14,7 @@ metadata:
   tags:
     - commerce-intelligence
     - seasonality-forecasting
+  icon_path: "assets/icon.png"
 ---
 
 # Seasonality Forecasting

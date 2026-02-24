@@ -7,6 +7,7 @@ metadata:
   short_description: "Enforce data access policies and rules for protected health information by defining role-based..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Data Access Governance

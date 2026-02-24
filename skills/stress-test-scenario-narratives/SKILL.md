@@ -7,6 +7,7 @@ metadata:
   short_description: "Explain stress test scenarios, assumptions, and results for CCAR/DFAST and internal capital..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Stress Test Scenario Narratives

@@ -7,6 +7,7 @@ metadata:
   short_description: "Conduct clinical due diligence for healthcare mergers, acquisitions, partnerships, and joint..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # M&A Clinical Diligence

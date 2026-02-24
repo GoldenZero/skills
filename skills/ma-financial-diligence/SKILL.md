@@ -6,6 +6,7 @@ metadata:
   display_name: "M&A Financial Diligence"
   short_description: "Conduct M&A financial due diligence for bank acquisitions and merger economics."
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # M&A Financial Due Diligence

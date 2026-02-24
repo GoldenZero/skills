@@ -7,6 +7,7 @@ metadata:
   short_description: "Screen investment products for suitability alignment with specific client profiles per Reg BI..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Product Suitability Screening

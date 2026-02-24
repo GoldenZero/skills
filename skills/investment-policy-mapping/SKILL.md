@@ -7,6 +7,7 @@ metadata:
   short_description: "Map client portfolios against their Investment Policy Statement (IPS) to verify compliance with..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Investment Policy Mapping

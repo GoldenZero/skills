@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess new market entry feasibility for financial institutions including market sizing,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Market Entry Feasibility Assessment

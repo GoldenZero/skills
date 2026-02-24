@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and assess social determinants of health risks using validated screening tools..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # SDoH Risk Identifier

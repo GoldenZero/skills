@@ -7,6 +7,7 @@ metadata:
   short_description: "Summarize patient safety events and incident reports into structured, actionable summaries by..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Incident Report Summarization

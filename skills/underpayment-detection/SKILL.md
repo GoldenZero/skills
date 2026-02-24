@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify payer underpayments by comparing actual reimbursements against contracted rates, fee..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Underpayment Detection

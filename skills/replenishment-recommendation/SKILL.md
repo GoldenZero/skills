@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate optimal reorder quantities and timing using Economic Order Quantity, safety stock..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Replenishment Recommendation

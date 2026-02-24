@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and assess privacy and security risks under HIPAA Privacy Rule (45 CFR 160/164 Subpart..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # HIPAA Risk Review

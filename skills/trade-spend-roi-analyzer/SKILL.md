@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze and explain trade spend impact, ROI, and effectiveness across CPG promotional programs..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Trade Spend ROI Analyzer

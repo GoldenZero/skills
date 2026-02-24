@@ -12,6 +12,7 @@ metadata:
   short_description: "Generates comprehensive, lifecycle-stage-specific retention playbooks for CPG and retail..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Retention Playbook Generator

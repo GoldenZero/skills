@@ -14,6 +14,7 @@ metadata:
   tags:
     - commerce-intelligence
     - promotion-effectiveness-analysis
+  icon_path: "assets/icon.png"
 ---
 
 # Promotion Effectiveness Analysis

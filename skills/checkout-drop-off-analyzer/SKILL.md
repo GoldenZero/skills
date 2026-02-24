@@ -7,6 +7,7 @@ metadata:
   short_description: "Diagnose cart abandonment and checkout funnel drop-off by analyzing behavioral, technical, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Checkout Drop-off Analyzer

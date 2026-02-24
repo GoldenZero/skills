@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate CMS-compliant, health-literacy-appropriate discharge instruction sets covering..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Discharge Instruction Generator

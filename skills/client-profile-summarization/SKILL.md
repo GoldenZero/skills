@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate holistic client profile summaries for wealth management relationships."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Client Profile Summarization

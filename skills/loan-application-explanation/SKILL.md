@@ -6,6 +6,7 @@ metadata:
   display_name: "Loan Application Explanation"
   short_description: "Explain loan approval and denial decisions with Reg B/ECOA-compliant reason codes."
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Loan Application Decision Explanation

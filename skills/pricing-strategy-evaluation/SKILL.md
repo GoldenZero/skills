@@ -7,6 +7,7 @@ metadata:
   short_description: "Evaluate pricing strategy effectiveness for banking products including FTP-adjusted breakeven..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Pricing Strategy Evaluation

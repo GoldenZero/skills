@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and quantify referral leakage where patients receive referred services outside the..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Referral Leakage Detection

@@ -7,6 +7,7 @@ metadata:
   short_description: "Explain laboratory results for clinicians with clinical context, reference range interpretation,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Lab Result Explanation

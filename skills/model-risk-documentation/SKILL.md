@@ -7,6 +7,7 @@ metadata:
   short_description: "Document and explain model risk management decisions aligned with SR 11-7 and OCC 2011-12..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Model Risk Documentation

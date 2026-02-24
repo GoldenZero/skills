@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and prioritize bottlenecks constraining CPG brand or portfolio growth using Theory of..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Growth Constraint Identifier

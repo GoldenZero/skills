@@ -7,6 +7,7 @@ metadata:
   short_description: "Build structured what-if scenario models for CPG strategic planning using Monte Carlo simulation..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Scenario Planning Engine

@@ -7,6 +7,7 @@ metadata:
   short_description: "Interpret and explain healthcare regulation updates including CMS final rules, HIPAA..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Regulatory Change Interpreter

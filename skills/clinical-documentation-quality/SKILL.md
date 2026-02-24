@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess clinical documentation quality and completeness by evaluating medical record entries..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Clinical Documentation Quality Assessment

@@ -7,6 +7,7 @@ metadata:
   short_description: "Ensure healthcare billing compliance with CMS rules, OIG guidelines, False Claims Act..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Billing Compliance Checker

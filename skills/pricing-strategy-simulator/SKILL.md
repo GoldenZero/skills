@@ -7,6 +7,7 @@ metadata:
   short_description: "Simulate CPG pricing strategies including cost pass-through, promotional pricing, EDLP/Hi-Lo..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Pricing Strategy Simulator

@@ -7,6 +7,7 @@ metadata:
   short_description: "Balance on-call schedules fairly across providers by analyzing call burden distribution,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # On-Call Load Optimization

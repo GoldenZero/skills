@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate balance sheet optimization insights including RWA efficiency, NIM enhancement, HQLA..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Balance Sheet Optimization

@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate comprehensive meeting preparation briefs for financial advisors before client reviews."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Advisor Meeting Prep Briefs

@@ -7,6 +7,7 @@ metadata:
   short_description: "Diagnose and explain why e-commerce content is or isn't performing against KPIs, using causal..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Content Performance Explainer

@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate statistically rigorous, testable hypotheses for e-commerce content optimization..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # A/B Test Hypothesis Generator

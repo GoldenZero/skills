@@ -7,6 +7,7 @@ metadata:
   short_description: "Predict early-stage default risk for individual loans and portfolio segments using behavioral,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Early Delinquency Predictor

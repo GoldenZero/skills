@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate and optimize SEO-rich, conversion-focused product detail page (PDP) copy for CPG and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Product Description Optimizer

@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze branch-level performance metrics and generate actionable insights for retail banking..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Branch Performance Analysis

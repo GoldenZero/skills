@@ -7,6 +7,7 @@ metadata:
   short_description: "Predict provider capacity shortages and surpluses using demand modeling, wRVU productivity..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Provider Capacity Forecasting

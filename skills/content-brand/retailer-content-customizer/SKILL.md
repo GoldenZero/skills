@@ -7,6 +7,7 @@ metadata:
   short_description: "Tailor product content to meet the unique style guides, character limits, taxonomy rules, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Retailer Content Customizer

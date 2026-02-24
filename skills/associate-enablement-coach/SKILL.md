@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate store-level playbooks that translate performance gaps into actionable coaching scripts,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Associate Enablement Coach

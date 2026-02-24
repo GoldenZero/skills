@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess and summarize collateral risk for secured lending decisions including real estate,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Collateral Risk Summaries

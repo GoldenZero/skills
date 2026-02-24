@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify systemic CX issues by analyzing customer complaint data across channels, applying root..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Customer Complaint Root Cause Analyzer

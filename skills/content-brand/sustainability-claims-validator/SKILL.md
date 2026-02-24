@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate environmental, social, and governance (ESG) claims for accuracy, substantiation, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Sustainability Claims Validator

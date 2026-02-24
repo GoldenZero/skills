@@ -6,6 +6,7 @@ metadata:
   display_name: "Loan Pricing Optimization"
   short_description: "Provide risk-adjusted loan pricing guidance using PD/LGD and cost-of-funds."
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Loan Pricing Optimization

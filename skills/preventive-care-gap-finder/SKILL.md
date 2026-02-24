@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify missed preventive care opportunities using HEDIS measures, USPSTF recommendations, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Preventive Care Gap Finder

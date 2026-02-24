@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate clear, contextualized explanations of operational KPIs for healthcare leadership audiences."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Operational KPI Narratives

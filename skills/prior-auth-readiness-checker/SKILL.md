@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate prior authorization request completeness against payer-specific requirements including..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Prior Authorization Readiness Checker

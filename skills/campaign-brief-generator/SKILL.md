@@ -11,6 +11,7 @@ metadata:
   short_description: "Generates comprehensive, execution-ready marketing campaign briefs for CPG and retail e-commerce..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Campaign Brief Generator

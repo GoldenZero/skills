@@ -12,6 +12,7 @@ metadata:
   short_description: "Determines the optimal timing, trigger conditions, and offer structure for upsell opportunities..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Upsell Timing Optimizer

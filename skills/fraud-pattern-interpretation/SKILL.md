@@ -7,6 +7,7 @@ metadata:
   short_description: "Interpret and explain fraud detection signals, model outputs, and suspicious patterns across..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Fraud Pattern Interpretation

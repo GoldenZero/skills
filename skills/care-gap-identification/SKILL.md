@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify missing or overdue care steps against HEDIS, STAR, USPSTF, and disease-specific quality..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Care Gap Identification

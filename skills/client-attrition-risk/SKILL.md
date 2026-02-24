@@ -7,6 +7,7 @@ metadata:
   short_description: "Predict client attrition risk for wealth management relationships using engagement, performance,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Client Attrition Risk Prediction

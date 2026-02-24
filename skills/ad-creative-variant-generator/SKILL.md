@@ -11,6 +11,7 @@ metadata:
   short_description: "Generates systematic ad creative variants across copy, visual direction, format, and audience..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Ad Creative Variant Generator

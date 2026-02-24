@@ -7,6 +7,7 @@ metadata:
   short_description: "Flag theft, fraud, and process-failure risk patterns by analyzing inventory variance,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Shrinkage Risk Detector

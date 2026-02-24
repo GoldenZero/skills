@@ -7,6 +7,7 @@ metadata:
   short_description: "Explain data traceability and lineage for financial institution data assets."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Data Lineage Explanation

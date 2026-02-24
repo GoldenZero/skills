@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate executive-safe clinical performance summaries for board presentations, investor..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Board-Ready Clinical Insights

@@ -7,6 +7,7 @@ metadata:
   short_description: "Match patient cases to applicable evidence-based clinical guidelines and protocols with gap..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Clinical Guideline Matching

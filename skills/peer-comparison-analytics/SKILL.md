@@ -7,6 +7,7 @@ metadata:
   short_description: "Compare provider performance metrics against specialty-matched peers using wRVU productivity,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Peer Comparison Analytics

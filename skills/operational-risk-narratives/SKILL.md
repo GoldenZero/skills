@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze operational risk events and produce structured loss event narratives, root cause..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Operational Risk Narratives

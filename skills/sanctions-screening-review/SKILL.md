@@ -7,6 +7,7 @@ metadata:
   short_description: "Review and explain sanctions screening results, OFAC match dispositions, and sanctions..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Sanctions Screening Review

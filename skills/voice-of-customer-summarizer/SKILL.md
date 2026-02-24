@@ -7,6 +7,7 @@ metadata:
   short_description: "Summarize customer feedback at scale across surveys, reviews, social media, and support..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Voice of Customer Summarizer

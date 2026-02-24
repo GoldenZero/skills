@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate and validate language-safe healthcare communications for Limited English Proficiency..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Multilingual Patient Content

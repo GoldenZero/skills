@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify cost-saving opportunities across transportation, warehousing, and last-mile delivery by..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Logistics Cost Optimization

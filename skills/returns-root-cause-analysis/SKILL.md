@@ -7,6 +7,7 @@ metadata:
   short_description: "Diagnose why product returns are happening by classifying return reasons, identifying systemic..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Returns Root Cause Analysis

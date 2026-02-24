@@ -7,6 +7,7 @@ metadata:
   short_description: "Predict prior authorization processing timelines and identify delay risk factors by analyzing..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Authorization Timeline Predictor

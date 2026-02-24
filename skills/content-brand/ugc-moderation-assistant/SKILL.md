@@ -7,6 +7,7 @@ metadata:
   short_description: "Screen, classify, and moderate user-generated content including product reviews, Q&A..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # UGC Moderation Assistant

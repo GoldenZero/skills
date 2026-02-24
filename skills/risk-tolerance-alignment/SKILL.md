@@ -7,6 +7,7 @@ metadata:
   short_description: "Check portfolio suitability alignment against client risk tolerance, capacity, and investment..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Risk Tolerance Alignment

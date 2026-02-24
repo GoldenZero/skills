@@ -12,6 +12,7 @@ metadata:
   short_description: "Identifies and prioritizes cross-sell opportunities by analyzing product affinity, purchase..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Cross-Sell Opportunity Engine

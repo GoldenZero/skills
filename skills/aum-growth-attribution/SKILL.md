@@ -7,6 +7,7 @@ metadata:
   short_description: "Attribute AUM growth to its component drivers — market performance, net new assets, client..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # AUM Growth Attribution

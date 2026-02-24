@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze and explain the impact of regulatory rule changes on financial institution operations,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Regulatory Change Impact Analysis

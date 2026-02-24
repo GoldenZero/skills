@@ -7,6 +7,7 @@ metadata:
   short_description: "Transform complex clinical and administrative healthcare communications into plain-language..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Patient Communication Simplifier

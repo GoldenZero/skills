@@ -12,6 +12,7 @@ metadata:
   short_description: "Predicts customer lifetime value using cohort analysis, RFM-based heuristics, and probabilistic..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # LTV Prediction

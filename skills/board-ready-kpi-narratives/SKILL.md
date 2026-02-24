@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate investor-safe, board-ready narratives from raw KPI data for CPG companies."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Board-Ready KPI Narratives

@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate on-pack and digital packaging copy against legal mandates, marketing claims policy,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Packaging Copy Validator

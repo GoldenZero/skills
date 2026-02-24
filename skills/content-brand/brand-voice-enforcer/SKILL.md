@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze and rewrite content to strict brand voice guidelines, scoring adherence across tone,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Brand Voice Enforcer

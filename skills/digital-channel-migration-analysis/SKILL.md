@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze customer channel shift patterns from physical to digital banking channels."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Digital Channel Migration Analysis

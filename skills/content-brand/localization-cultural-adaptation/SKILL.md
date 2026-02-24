@@ -7,6 +7,7 @@ metadata:
   short_description: "Adapt CPG and retail e-commerce content for target markets with culturally resonant messaging,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Localization & Cultural Adaptation

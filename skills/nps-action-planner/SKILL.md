@@ -7,6 +7,7 @@ metadata:
   short_description: "Recommend targeted actions from Net Promoter Score data by segmenting promoters, passives, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # NPS Action Planner

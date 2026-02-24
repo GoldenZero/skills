@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze CPG commercial contracts to highlight risky clauses, unfavorable terms, and missing..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Contract Clause Analyzer

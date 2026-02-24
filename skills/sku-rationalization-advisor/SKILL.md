@@ -14,6 +14,7 @@ metadata:
   tags:
     - commerce-intelligence
     - sku-rationalization-advisor
+  icon_path: "assets/icon.png"
 ---
 
 # SKU Rationalization Advisor

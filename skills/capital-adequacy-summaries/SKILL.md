@@ -7,6 +7,7 @@ metadata:
   short_description: "Summarize capital adequacy positions including CET1, Tier 1, Total Capital ratios, RWA..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Capital Adequacy Summaries

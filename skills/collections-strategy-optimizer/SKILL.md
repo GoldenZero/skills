@@ -7,6 +7,7 @@ metadata:
   short_description: "Optimize collections strategies using segmentation, channel effectiveness analysis, and recovery..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Collections Strategy Optimizer

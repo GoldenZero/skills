@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess digital transformation readiness for financial institutions covering technology..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Digital Transformation Readiness Assessment

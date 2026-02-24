@@ -14,6 +14,7 @@ metadata:
   tags:
     - commerce-intelligence
     - new-product-launch-readiness
+  icon_path: "assets/icon.png"
 ---
 
 # New Product Launch Readiness

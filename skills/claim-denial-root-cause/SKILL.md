@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze claim denial reasons using CARC/RARC codes, payer-specific rules, and billing data to..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Claim Denial Root Cause Analysis

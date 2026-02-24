@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate informed consent documentation for completeness, regulatory compliance, and clinical..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Consent Documentation Validator

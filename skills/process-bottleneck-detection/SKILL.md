@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify and analyze operational bottlenecks in banking processes using Lean and Six Sigma..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Process Bottleneck Detection

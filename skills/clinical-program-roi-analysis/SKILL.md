@@ -7,6 +7,7 @@ metadata:
   short_description: "Calculate return on investment for clinical programs including care management, disease..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Clinical Program ROI Analysis

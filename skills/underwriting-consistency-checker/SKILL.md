@@ -7,6 +7,7 @@ metadata:
   short_description: "Detect underwriting bias, inconsistency, and disparate treatment across loan decisions."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Underwriting Consistency Checker

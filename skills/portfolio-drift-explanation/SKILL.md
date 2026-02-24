@@ -7,6 +7,7 @@ metadata:
   short_description: "Explain portfolio drift from target allocations in client-friendly language with actionable..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Portfolio Drift Explanation

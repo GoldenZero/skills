@@ -7,6 +7,7 @@ metadata:
   short_description: "Decompose and explain healthcare cost growth into contributing factors including utilization..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Cost Driver Decomposition

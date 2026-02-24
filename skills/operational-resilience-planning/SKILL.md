@@ -7,6 +7,7 @@ metadata:
   short_description: "Conduct operational resilience planning and assessment for financial institutions."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Operational Resilience Planning

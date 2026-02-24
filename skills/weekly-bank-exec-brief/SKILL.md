@@ -7,6 +7,7 @@ metadata:
   short_description: "Auto-generate weekly executive summaries for bank leadership covering financial performance,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Weekly Bank Executive Brief

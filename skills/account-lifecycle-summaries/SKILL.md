@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate comprehensive account history narratives covering the full lifecycle from opening..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Account Lifecycle Summaries

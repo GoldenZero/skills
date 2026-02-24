@@ -7,6 +7,7 @@ metadata:
   short_description: "Decompose funding cost drivers across deposit pricing, wholesale funding, FTP curves, and..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Funding Cost Decomposition

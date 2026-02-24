@@ -7,6 +7,7 @@ metadata:
   short_description: "Validate KYC/CDD documentation completeness and identify gaps in customer due diligence files."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # KYC Completeness Validator

@@ -7,6 +7,7 @@ metadata:
   short_description: "Flag overstock and stockout risks across the inventory portfolio by computing weeks of supply,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Inventory Risk Alerting

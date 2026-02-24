@@ -7,6 +7,7 @@ metadata:
   short_description: "Score healthcare claim complexity for work queue prioritization by evaluating coding difficulty,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Claim Complexity Scoring

@@ -7,6 +7,7 @@ metadata:
   short_description: "Explain changes in Customer Satisfaction (CSAT) scores by decomposing them into contributing..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # CSAT Driver Analysis

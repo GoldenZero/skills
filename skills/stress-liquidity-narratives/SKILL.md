@@ -7,6 +7,7 @@ metadata:
   short_description: "Explain stress liquidity impact scenarios including contingency funding plans, survival horizon..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Stress Liquidity Narratives

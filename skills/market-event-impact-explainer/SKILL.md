@@ -7,6 +7,7 @@ metadata:
   short_description: "Explain market event impact on client portfolios in plain language with actionable context."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Market Event Impact Explainer

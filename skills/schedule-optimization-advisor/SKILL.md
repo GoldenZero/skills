@@ -7,6 +7,7 @@ metadata:
   short_description: "Optimize provider scheduling templates using demand pattern analysis, appointment type modeling,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Schedule Optimization Advisor

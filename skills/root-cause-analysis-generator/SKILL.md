@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate comprehensive root cause analysis (RCA) drafts for adverse events and sentinel events..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Root Cause Analysis Generator

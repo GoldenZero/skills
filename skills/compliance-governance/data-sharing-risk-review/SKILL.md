@@ -7,6 +7,7 @@ metadata:
   short_description: "Review and assess risks of data sharing arrangements between CPG brands and retail partners,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Data Sharing Risk Review

@@ -7,6 +7,7 @@ metadata:
   short_description: "Support utilization review decisions by evaluating medical necessity, level-of-care..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Utilization Review Assistant

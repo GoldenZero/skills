@@ -7,6 +7,7 @@ metadata:
   short_description: "Analyze and explain interest rate risk impact on NII and EVE, including duration gap analysis,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Interest Rate Sensitivity Analysis

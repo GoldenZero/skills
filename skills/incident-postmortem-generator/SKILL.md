@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate incident postmortem reviews for financial institution operational events."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Incident Postmortem Generator

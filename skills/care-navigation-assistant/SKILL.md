@@ -7,6 +7,7 @@ metadata:
   short_description: "Guide patients through complex care pathways by generating personalized navigation plans..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Care Navigation Assistant

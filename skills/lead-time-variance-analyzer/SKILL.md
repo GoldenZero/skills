@@ -7,6 +7,7 @@ metadata:
   short_description: "Diagnose supply delays by decomposing lead time into constituent stages, identifying variance..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Lead Time Variance Analyzer

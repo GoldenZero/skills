@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess provider network adequacy against CMS, state, and NCQA standards for time-distance,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Network Adequacy Analysis

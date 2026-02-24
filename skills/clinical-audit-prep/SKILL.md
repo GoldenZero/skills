@@ -7,6 +7,7 @@ metadata:
   short_description: "Prepare comprehensive clinical audit summaries for Joint Commission, CMS, state health..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Clinical Audit Preparation

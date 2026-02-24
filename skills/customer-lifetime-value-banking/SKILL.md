@@ -7,6 +7,7 @@ metadata:
   short_description: "Build and analyze banking CLV models incorporating deposit stickiness, product adoption curves,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Customer Lifetime Value — Banking

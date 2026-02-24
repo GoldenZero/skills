@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate timeline-based patient summaries that synthesize clinical events, diagnoses,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Longitudinal Patient Summaries

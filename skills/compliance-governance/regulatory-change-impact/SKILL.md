@@ -7,6 +7,7 @@ metadata:
   short_description: "Assess and explain the business impact of regulatory changes on CPG operations, including FDA..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Regulatory Change Impact Assessment

@@ -6,6 +6,7 @@ metadata:
   display_name: "Exposure Concentration Analysis"
   short_description: "Analyze portfolio concentration risks across borrower, industry, and geography."
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Exposure Concentration Analysis

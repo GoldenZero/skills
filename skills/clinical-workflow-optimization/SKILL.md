@@ -7,6 +7,7 @@ metadata:
   short_description: "Identify inefficiencies in clinical workflows through process analysis, bottleneck detection,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Clinical Workflow Optimization

@@ -7,6 +7,7 @@ metadata:
   short_description: "Align healthcare operations and clinical workflows to quality measurement programs including..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Quality Measure Alignment

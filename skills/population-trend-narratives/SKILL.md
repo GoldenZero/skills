@@ -7,6 +7,7 @@ metadata:
   short_description: "Generate plain-language narratives explaining population health trends from clinical,..."
 
   version: "1.0.0"
+  icon_path: "assets/icon.png"
 ---
 
 # Population Trend Narratives
