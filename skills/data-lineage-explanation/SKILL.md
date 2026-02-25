@@ -4,9 +4,8 @@ description: Explain data traceability and lineage for financial institution dat
 
 metadata:
   display_name: "Data Lineage Explanation"
-  short_description: "Explain data traceability and lineage for financial institution data assets."
-  default_prompt: "Explain data traceability and lineage for financial institution data assets"
-
+  short_description: "Explain data lineage and traceability for bank reporting"
+  default_prompt: "Explain my data lineage in simple words and next steps"
   version: "1.0.0"
   tags:
     - financial-services

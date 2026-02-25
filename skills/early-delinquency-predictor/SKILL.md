@@ -4,9 +4,8 @@ description: Predict early-stage default risk for individual loans and portfolio
 
 metadata:
   display_name: "Early Delinquency Predictor"
-  short_description: "Predict early-stage default risk for individual loans and portfolio segments using behavioral,..."
-  default_prompt: "Predict early-stage default risk for individual loans and portfolio segments using behavioral, bureau"
-
+  short_description: "Predict early-stage loan delinquency and default risk"
+  default_prompt: "Review my early delinquency and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - financial-services

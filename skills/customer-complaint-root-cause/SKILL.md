@@ -4,9 +4,8 @@ description: Identify systemic CX issues by analyzing customer complaint data ac
 
 metadata:
   display_name: "Customer Complaint Root Cause Analyzer"
-  short_description: "Identify systemic CX issues by analyzing customer complaint data across channels, applying root..."
-  default_prompt: "Identify systemic CX issues by analyzing customer complaint data across channels"
-
+  short_description: "Analyze customer complaints for systemic root causes"
+  default_prompt: "Analyze my customer complaint root cause and recommend clear next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

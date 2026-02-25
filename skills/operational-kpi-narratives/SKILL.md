@@ -4,9 +4,8 @@ description: Generate clear, contextualized explanations of operational KPIs for
 
 metadata:
   display_name: "Operational Kpi Narratives"
-  short_description: "Generate clear, contextualized explanations of operational KPIs for healthcare leadership audiences."
-  default_prompt: "Generate clear, contextualized explanations of operational KPIs for healthcare leadership audiences"
-
+  short_description: "Narrate healthcare operational KPIs for executive leaders"
+  default_prompt: "Summarize my operational kpi with key findings and next steps"
   version: "1.0.0"
   tags:
     - healthcare

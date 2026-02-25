@@ -4,9 +4,8 @@ description: Decompose funding cost drivers across deposit pricing, wholesale fu
 
 metadata:
   display_name: "Funding Cost Decomposition"
-  short_description: "Decompose funding cost drivers across deposit pricing, wholesale funding, FTP curves, and..."
-  default_prompt: "Decompose funding cost drivers across deposit pricing, wholesale funding, FTP curves, and liquidity premiums"
-
+  short_description: "Break down bank funding costs, FTP curves, and drivers"
+  default_prompt: "Analyze my funding cost decomposition and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

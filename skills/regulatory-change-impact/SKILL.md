@@ -4,9 +4,8 @@ description: Analyze and explain the impact of regulatory rule changes on financ
 
 metadata:
   display_name: "Regulatory Change Impact"
-  short_description: "Analyze and explain the impact of regulatory rule changes on financial institution operations,..."
-  default_prompt: "Analyze and explain the impact of regulatory rule changes on financial institution operations, risk management"
-
+  short_description: "Assess regulatory rule change impact on bank operations"
+  default_prompt: "Analyze my banking regulatory change impact and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

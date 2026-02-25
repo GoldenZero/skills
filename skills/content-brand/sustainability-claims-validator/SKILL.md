@@ -4,9 +4,8 @@ description: Validate environmental, social, and governance (ESG) claims for acc
 
 metadata:
   display_name: "Sustainability Claims Validator"
-  short_description: "Validate environmental, social, and governance (ESG) claims for accuracy, substantiation, and..."
-  default_prompt: "Validate environmental, social, and governance (ESG) claims"
-
+  short_description: "Validate ESG and sustainability claims for FTC compliance"
+  default_prompt: "Check my sustainability claims for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - cpg-retail

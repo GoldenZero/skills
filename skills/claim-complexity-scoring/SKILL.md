@@ -4,9 +4,8 @@ description: Score healthcare claim complexity for work queue prioritization by 
 
 metadata:
   display_name: "Claim Complexity Scoring"
-  short_description: "Score healthcare claim complexity for work queue prioritization by evaluating coding difficulty,..."
-  default_prompt: "Score healthcare claim complexity for work queue prioritization"
-
+  short_description: "Score healthcare claim complexity for work queue triage"
+  default_prompt: "Score my claim complexity and explain what to improve"
   version: "1.0.0"
   tags:
     - healthcare

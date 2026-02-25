@@ -4,9 +4,8 @@ description: Prepare audit-ready documentation packages for internal audits, ext
 
 metadata:
   display_name: "Audit Prep Assistant"
-  short_description: "Prepare audit-ready documentation packages for internal audits, external audits, regulatory..."
-  default_prompt: "Prepare audit-ready documentation packages for internal audits, external audits, regulatory inspections"
-
+  short_description: "Prepare CPG audit documentation and compliance evidence"
+  default_prompt: "Check my audit prep for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Analyze viability of new clinic locations, facility expansions, or 
 
 metadata:
   display_name: "Market Expansion Analysis"
-  short_description: "Analyze viability of new clinic locations, facility expansions, or market entry for healthcare..."
-  default_prompt: "Analyze viability of new clinic locations, facility expansions, or market entry for healthcare organizations"
-
+  short_description: "Evaluate healthcare facility expansion and market viability"
+  default_prompt: "Analyze my market expansion and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

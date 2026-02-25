@@ -4,9 +4,8 @@ description: Interpret and explain payer-specific coverage policies, medical nec
 
 metadata:
   display_name: "Payer Rule Interpretation"
-  short_description: "Interpret and explain payer-specific coverage policies, medical necessity criteria, benefit..."
-  default_prompt: "Interpret and explain payer-specific coverage policies, medical necessity criteria, benefit structures"
-
+  short_description: "Interpret payer-specific coverage rules and reimbursement"
+  default_prompt: "Explain my payer rule in simple words and next steps"
   version: "1.0.0"
   tags:
     - healthcare

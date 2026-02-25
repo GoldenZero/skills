@@ -4,9 +4,8 @@ description: Recommend targeted actions from Net Promoter Score data by segmenti
 
 metadata:
   display_name: "Nps Action Planner"
-  short_description: "Recommend targeted actions from Net Promoter Score data by segmenting promoters, passives, and..."
-  default_prompt: "Recommend targeted actions from Net Promoter Score data by segmenting promoters, passives"
-
+  short_description: "Turn NPS feedback into prioritized improvement actions"
+  default_prompt: "Optimize my nps action and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

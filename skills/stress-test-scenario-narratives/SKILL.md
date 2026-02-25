@@ -4,9 +4,8 @@ description: Explain stress test scenarios, assumptions, and results for CCAR/DF
 
 metadata:
   display_name: "Stress Test Scenario Narratives"
-  short_description: "Explain stress test scenarios, assumptions, and results for CCAR/DFAST and internal capital..."
-  default_prompt: "Explain stress test scenarios, assumptions, and results for CCAR/DFAST and internal capital adequacy assessments"
-
+  short_description: "Write CCAR/DFAST stress test scenario narratives for banks"
+  default_prompt: "Summarize my stress test scenario with key findings and next steps"
   version: "1.0.0"
   tags:
     - financial-services

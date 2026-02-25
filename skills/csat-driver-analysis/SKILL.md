@@ -4,9 +4,8 @@ description: Explain changes in Customer Satisfaction (CSAT) scores by decomposi
 
 metadata:
   display_name: "Csat Driver Analysis"
-  short_description: "Explain changes in Customer Satisfaction (CSAT) scores by decomposing them into contributing..."
-  default_prompt: "Explain changes in Customer Satisfaction (CSAT) scores"
-
+  short_description: "Decompose CSAT score changes into operational root drivers"
+  default_prompt: "Analyze my csat driver and recommend clear next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

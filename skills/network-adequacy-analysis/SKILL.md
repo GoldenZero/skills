@@ -4,9 +4,8 @@ description: Assess provider network adequacy against CMS, state, and NCQA stand
 
 metadata:
   display_name: "Network Adequacy Analysis"
-  short_description: "Assess provider network adequacy against CMS, state, and NCQA standards for time-distance,..."
-  default_prompt: "Assess provider network adequacy against CMS, state"
-
+  short_description: "Assess provider network adequacy against CMS standards"
+  default_prompt: "Analyze my network adequacy and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

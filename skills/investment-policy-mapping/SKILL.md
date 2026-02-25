@@ -4,9 +4,8 @@ description: Map client portfolios against their Investment Policy Statement (IP
 
 metadata:
   display_name: "Investment Policy Mapping"
-  short_description: "Map client portfolios against their Investment Policy Statement (IPS) to verify compliance with..."
-  default_prompt: "Map client portfolios against their Investment Policy Statement (IPS) to verify compliance"
-
+  short_description: "Check portfolio compliance against IPS allocation guidelines"
+  default_prompt: "Map my investment policy and show key friction points and improvements"
   version: "1.0.0"
   tags:
     - financial-services

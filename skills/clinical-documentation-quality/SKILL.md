@@ -4,9 +4,8 @@ description: Assess clinical documentation quality and completeness by evaluatin
 
 metadata:
   display_name: "Clinical Documentation Quality"
-  short_description: "Assess clinical documentation quality and completeness by evaluating medical record entries..."
-  default_prompt: "Assess clinical documentation quality and completeness"
-
+  short_description: "Assess medical record documentation quality and gaps"
+  default_prompt: "Help me with clinical documentation quality and give clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

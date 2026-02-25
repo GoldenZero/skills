@@ -4,9 +4,8 @@ description: Identify sources of lost revenue across the revenue cycle including
 
 metadata:
   display_name: "Revenue Leakage Detection"
-  short_description: "Identify sources of lost revenue across the revenue cycle including missed charges, coding..."
-  default_prompt: "Identify sources of lost revenue across the revenue cycle"
-
+  short_description: "Find revenue leakage in the healthcare revenue cycle"
+  default_prompt: "Review my revenue leakage and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

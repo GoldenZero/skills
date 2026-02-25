@@ -9,8 +9,8 @@ description: >
 
 metadata:
   display_name: "Promotion Effectiveness Analysis"
-  short_description: "Evaluate ROI of trade promotions and temporary price reductions."
-  default_prompt: "Evaluate the return on investment and effectiveness of trade promotions, temporary price reductions"
+  short_description: "Evaluate trade promotion ROI, lift, and spending efficiency"
+  default_prompt: "Analyze my promotion effectiveness and recommend clear next actions"
   version: "1.0.0"
   tags:
     - commerce-intelligence

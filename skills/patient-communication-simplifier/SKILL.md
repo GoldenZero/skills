@@ -4,9 +4,8 @@ description: Transform complex clinical and administrative healthcare communicat
 
 metadata:
   display_name: "Patient Communication Simplifier"
-  short_description: "Transform complex clinical and administrative healthcare communications into plain-language..."
-  default_prompt: "Transform complex clinical and administrative healthcare communications into plain-language content calibrated to"
-
+  short_description: "Simplify clinical communications for patient readability"
+  default_prompt: "Generate patient communication for my case with clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

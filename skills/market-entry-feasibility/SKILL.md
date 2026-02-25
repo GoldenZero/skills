@@ -4,9 +4,8 @@ description: Assess new market entry feasibility for financial institutions incl
 
 metadata:
   display_name: "Market Entry Feasibility"
-  short_description: "Assess new market entry feasibility for financial institutions including market sizing,..."
-  default_prompt: "Assess new market entry feasibility for financial institutions"
-
+  short_description: "Assess bank market entry and expansion feasibility"
+  default_prompt: "Analyze my market entry feasibility and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

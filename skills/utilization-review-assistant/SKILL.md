@@ -4,9 +4,8 @@ description: Support utilization review decisions by evaluating medical necessit
 
 metadata:
   display_name: "Utilization Review Assistant"
-  short_description: "Support utilization review decisions by evaluating medical necessity, level-of-care..."
-  default_prompt: "Support utilization review decisions by evaluating medical necessity, level-of-care appropriateness"
-
+  short_description: "Support medical necessity and level-of-care UR decisions"
+  default_prompt: "Check my medical necessity and level of care for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

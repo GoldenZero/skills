@@ -4,9 +4,8 @@ description: Generate AML/BSA transaction monitoring alert summaries and suspici
 
 metadata:
   display_name: "Transaction Monitoring Summaries"
-  short_description: "Generate AML/BSA transaction monitoring alert summaries and suspicious activity explanations."
-  default_prompt: "Generate AML/BSA transaction monitoring alert summaries and suspicious activity explanations"
-
+  short_description: "Summarize AML/BSA transaction monitoring alerts and SARs"
+  default_prompt: "Review my aml bsa transaction alerts and sars and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - financial-services

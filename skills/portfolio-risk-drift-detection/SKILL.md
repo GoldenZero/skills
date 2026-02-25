@@ -4,9 +4,8 @@ description: Detect and explain risk drift in lending portfolios over time using
 
 metadata:
   display_name: "Portfolio Risk Drift Detection"
-  short_description: "Detect and explain risk drift in lending portfolios over time using vintage analysis, migration..."
-  default_prompt: "Detect and explain risk drift in lending portfolios over time using vintage analysis, migration matrices"
-
+  short_description: "Detect credit risk drift in lending portfolios over time"
+  default_prompt: "Review my portfolio risk drift and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - financial-services

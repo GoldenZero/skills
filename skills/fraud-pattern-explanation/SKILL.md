@@ -4,9 +4,8 @@ description: Explain transaction fraud signals by analyzing payment, behavioral,
 
 metadata:
   display_name: "Fraud Pattern Explanation"
-  short_description: "Explain transaction fraud signals by analyzing payment, behavioral, and contextual patterns to..."
-  default_prompt: "Explain transaction fraud signals by analyzing payment, behavioral"
-
+  short_description: "Explain why transactions are flagged as potential fraud"
+  default_prompt: "Explain my fraud pattern drivers in simple words and next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

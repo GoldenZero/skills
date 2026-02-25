@@ -4,9 +4,8 @@ description: Align healthcare operations and clinical workflows to quality measu
 
 metadata:
   display_name: "Quality Measure Alignment"
-  short_description: "Align healthcare operations and clinical workflows to quality measurement programs including..."
-  default_prompt: "Align healthcare operations and clinical workflows to quality measurement programs including HEDIS, CMS STARS, MIPS"
-
+  short_description: "Align workflows to HEDIS, STARS, and MIPS measures"
+  default_prompt: "Map my quality measure alignment and show key friction points and improvements"
   version: "1.0.0"
   tags:
     - healthcare

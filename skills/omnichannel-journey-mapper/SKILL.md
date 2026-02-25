@@ -4,9 +4,8 @@ description: Map and analyze customer journeys across digital and physical retai
 
 metadata:
   display_name: "Omnichannel Journey Mapper"
-  short_description: "Map and analyze customer journeys across digital and physical retail channels, identifying..."
-  default_prompt: "Map and analyze customer journeys across digital and physical retail channels"
-
+  short_description: "Map omnichannel customer journeys and friction points"
+  default_prompt: "Map my omnichannel journey and show key friction points and improvements"
   version: "1.0.0"
   tags:
     - cpg-retail

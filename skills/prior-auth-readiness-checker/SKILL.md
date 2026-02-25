@@ -4,9 +4,8 @@ description: Validate prior authorization request completeness against payer-spe
 
 metadata:
   display_name: "Prior Auth Readiness Checker"
-  short_description: "Validate prior authorization request completeness against payer-specific requirements including..."
-  default_prompt: "Validate prior authorization request completeness against payer-specific requirements"
-
+  short_description: "Check prior authorization submission readiness and gaps"
+  default_prompt: "Check my prior auth for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

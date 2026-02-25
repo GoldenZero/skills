@@ -4,9 +4,8 @@ description: Summarize patient safety events and incident reports into structure
 
 metadata:
   display_name: "Incident Report Summarization"
-  short_description: "Summarize patient safety events and incident reports into structured, actionable summaries by..."
-  default_prompt: "Summarize patient safety events and incident reports into structured, actionable summaries"
-
+  short_description: "Summarize patient safety incidents into actionable reports"
+  default_prompt: "Summarize my incident report with key findings and next steps"
   version: "1.0.0"
   tags:
     - healthcare

@@ -4,9 +4,8 @@ description: Prepare comprehensive clinical audit summaries for Joint Commission
 
 metadata:
   display_name: "Clinical Audit Prep"
-  short_description: "Prepare comprehensive clinical audit summaries for Joint Commission, CMS, state health..."
-  default_prompt: "Prepare comprehensive clinical audit summaries for Joint Commission, CMS, state health department"
-
+  short_description: "Prepare for clinical accreditation and CMS audit surveys"
+  default_prompt: "Check my clinical audit prep for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

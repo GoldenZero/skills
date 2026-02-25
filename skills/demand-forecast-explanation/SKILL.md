@@ -4,9 +4,8 @@ description: Explain forecast drivers and decomposition to demand planners, tran
 
 metadata:
   display_name: "Demand Forecast Explanation"
-  short_description: "Explain forecast drivers and decomposition to demand planners, translating statistical models..."
-  default_prompt: "Explain forecast drivers and decomposition to demand planners"
-
+  short_description: "Explain demand forecast drivers, bias, and deviations"
+  default_prompt: "Explain my demand forecast in simple words and next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

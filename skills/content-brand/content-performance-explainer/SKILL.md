@@ -4,9 +4,8 @@ description: Diagnose and explain why e-commerce content is or isn't performing 
 
 metadata:
   display_name: "Content Performance Explainer"
-  short_description: "Diagnose and explain why e-commerce content is or isn't performing against KPIs, using causal..."
-  default_prompt: "Diagnose and explain why e-commerce content is or isn't performing against KPIs"
-
+  short_description: "Explain e-commerce content performance drivers and KPIs"
+  default_prompt: "Explain my content performance in simple words and next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

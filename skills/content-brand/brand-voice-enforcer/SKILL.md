@@ -4,9 +4,8 @@ description: Analyze and rewrite content to strict brand voice guidelines, scori
 
 metadata:
   display_name: "Brand Voice Enforcer"
-  short_description: "Analyze and rewrite content to strict brand voice guidelines, scoring adherence across tone,..."
-  default_prompt: "Analyze and rewrite content to strict brand voice guidelines"
-
+  short_description: "Enforce brand voice consistency across all content types"
+  default_prompt: "Score my brand voice enforcer and explain what to improve"
   version: "1.0.0"
   tags:
     - cpg-retail

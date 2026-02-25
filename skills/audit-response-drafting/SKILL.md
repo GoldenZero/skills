@@ -4,9 +4,8 @@ description: Draft regulator-ready audit responses, MRA/MRIA remediation plans, 
 
 metadata:
   display_name: "Audit Response Drafting"
-  short_description: "Draft regulator-ready audit responses, MRA/MRIA remediation plans, and examination finding..."
-  default_prompt: "Draft regulator-ready audit responses, MRA/MRIA remediation plans"
-
+  short_description: "Draft formal responses to bank regulatory exam findings"
+  default_prompt: "Check my audit response for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - financial-services

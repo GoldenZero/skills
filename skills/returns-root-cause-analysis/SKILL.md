@@ -4,9 +4,8 @@ description: Diagnose why product returns are happening by classifying return re
 
 metadata:
   display_name: "Returns Root Cause Analysis"
-  short_description: "Diagnose why product returns are happening by classifying return reasons, identifying systemic..."
-  default_prompt: "Diagnose why product returns are happening"
-
+  short_description: "Diagnose root causes of product returns across channels"
+  default_prompt: "Analyze my returns root cause and recommend clear next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Support HCC coding accuracy, RAF score optimization, and risk adjus
 
 metadata:
   display_name: "Risk Adjustment Support"
-  short_description: "Support HCC coding accuracy, RAF score optimization, and risk adjustment documentation..."
-  default_prompt: "Support HCC coding accuracy, RAF score optimization"
-
+  short_description: "Optimize HCC coding accuracy and risk adjustment scores"
+  default_prompt: "Help me with risk adjustment and give clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

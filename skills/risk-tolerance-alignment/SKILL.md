@@ -4,9 +4,8 @@ description: Check portfolio suitability alignment against client risk tolerance
 
 metadata:
   display_name: "Risk Tolerance Alignment"
-  short_description: "Check portfolio suitability alignment against client risk tolerance, capacity, and investment..."
-  default_prompt: "Check portfolio suitability alignment against client risk tolerance, capacity"
-
+  short_description: "Align portfolios with client risk tolerance per Reg BI"
+  default_prompt: "Analyze my risk tolerance alignment and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

@@ -4,9 +4,8 @@ description: Conduct operational resilience planning and assessment for financia
 
 metadata:
   display_name: "Operational Resilience Planning"
-  short_description: "Conduct operational resilience planning and assessment for financial institutions."
-  default_prompt: "Conduct operational resilience planning and assessment for financial institutions"
-
+  short_description: "Plan operational resilience for financial institutions"
+  default_prompt: "Optimize my operational resilience and suggest the best next steps"
   version: "1.0.0"
   tags:
     - financial-services

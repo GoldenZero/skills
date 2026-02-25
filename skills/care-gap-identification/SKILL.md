@@ -4,9 +4,8 @@ description: Identify missing or overdue care steps against HEDIS, STAR, USPSTF,
 
 metadata:
   display_name: "Care Gap Identification"
-  short_description: "Identify missing or overdue care steps against HEDIS, STAR, USPSTF, and disease-specific quality..."
-  default_prompt: "Identify missing or overdue care steps against HEDIS, STAR, USPSTF"
-
+  short_description: "Find missing care steps against HEDIS and STAR measures"
+  default_prompt: "Review my care gap and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

@@ -4,8 +4,8 @@ description: Generate investment-grade credit memoranda for commercial and insti
 
 metadata:
   display_name: "Credit Memo Generator"
-  short_description: "Generate investment-grade credit memoranda for commercial and institutional lending."
-  default_prompt: "Generate investment-grade credit memoranda for commercial and institutional lending decisions"
+  short_description: "Generate commercial and institutional lending credit memos"
+  default_prompt: "Generate credit memo for my case with clear next steps"
   version: "1.0.0"
   tags:
     - financial-services

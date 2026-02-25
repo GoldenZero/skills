@@ -4,9 +4,8 @@ description: Diagnose supply delays by decomposing lead time into constituent st
 
 metadata:
   display_name: "Lead Time Variance Analyzer"
-  short_description: "Diagnose supply delays by decomposing lead time into constituent stages, identifying variance..."
-  default_prompt: "Diagnose supply delays by decomposing lead time into constituent stages"
-
+  short_description: "Diagnose supply chain lead time variances and delays"
+  default_prompt: "Analyze my lead time variance and recommend clear next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Generate balance sheet optimization insights including RWA efficien
 
 metadata:
   display_name: "Balance Sheet Optimization"
-  short_description: "Generate balance sheet optimization insights including RWA efficiency, NIM enhancement, HQLA..."
-  default_prompt: "Generate balance sheet optimization insights"
-
+  short_description: "Optimize bank balance sheet and capital efficiency"
+  default_prompt: "Optimize my bank balance sheet and capital efficiency and suggest the best next steps"
   version: "1.0.0"
   tags:
     - financial-services

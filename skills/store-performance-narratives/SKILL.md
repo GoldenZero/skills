@@ -4,9 +4,8 @@ description: Auto-generate executive-ready store performance insights by synthes
 
 metadata:
   display_name: "Store Performance Narratives"
-  short_description: "Auto-generate executive-ready store performance insights by synthesizing KPIs across sales,..."
-  default_prompt: "Auto-generate executive-ready store performance insights by synthesizing KPIs across sales, traffic, labor"
-
+  short_description: "Generate executive-ready store performance narratives"
+  default_prompt: "Summarize my store performance with key findings and next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Balance on-call schedules fairly across providers by analyzing call
 
 metadata:
   display_name: "On Call Load Optimization"
-  short_description: "Balance on-call schedules fairly across providers by analyzing call burden distribution,..."
-  default_prompt: "Balance on-call schedules fairly across providers"
-
+  short_description: "Optimize provider on-call schedule equity and fairness"
+  default_prompt: "Optimize my on call load and suggest the best next steps"
   version: "1.0.0"
   tags:
     - healthcare

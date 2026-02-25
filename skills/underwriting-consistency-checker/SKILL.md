@@ -4,9 +4,8 @@ description: Detect underwriting bias, inconsistency, and disparate treatment ac
 
 metadata:
   display_name: "Underwriting Consistency Checker"
-  short_description: "Detect underwriting bias, inconsistency, and disparate treatment across loan decisions."
-  default_prompt: "Detect underwriting bias, inconsistency, and disparate treatment across loan decisions"
-
+  short_description: "Check loan underwriting for bias, consistency, and fairness"
+  default_prompt: "Check my underwriting consistency for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - financial-services

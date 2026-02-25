@@ -4,9 +4,8 @@ description: Explain credit policy rules, exceptions, and eligibility criteria i
 
 metadata:
   display_name: "Credit Policy Interpretation"
-  short_description: "Explain credit policy rules, exceptions, and eligibility criteria in plain language."
-  default_prompt: "Explain credit policy rules, exceptions, and eligibility criteria in plain language"
-
+  short_description: "Interpret credit policy rules, exceptions, and eligibility"
+  default_prompt: "Explain my credit policy in simple words and next steps"
   version: "1.0.0"
   tags:
     - financial-services

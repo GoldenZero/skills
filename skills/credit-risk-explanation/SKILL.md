@@ -4,9 +4,8 @@ description: Explain credit risk drivers, scoring methodologies, and loss estima
 
 metadata:
   display_name: "Credit Risk Explanation"
-  short_description: "Explain credit risk drivers, scoring methodologies, and loss estimation for lending portfolios."
-  default_prompt: "Explain credit risk drivers, scoring methodologies, and loss estimation for lending portfolios"
-
+  short_description: "Explain credit risk drivers, scoring, and loss estimation"
+  default_prompt: "Explain my credit risk in simple words and next steps"
   version: "1.0.0"
   tags:
     - financial-services

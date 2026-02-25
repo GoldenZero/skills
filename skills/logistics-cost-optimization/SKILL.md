@@ -4,9 +4,8 @@ description: Identify cost-saving opportunities across transportation, warehousi
 
 metadata:
   display_name: "Logistics Cost Optimization"
-  short_description: "Identify cost-saving opportunities across transportation, warehousing, and last-mile delivery by..."
-  default_prompt: "Identify cost-saving opportunities across transportation, warehousing"
-
+  short_description: "Optimize logistics costs across transport and warehousing"
+  default_prompt: "Optimize my logistics cost and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Generate and validate language-safe healthcare communications for L
 
 metadata:
   display_name: "Multilingual Patient Content"
-  short_description: "Generate and validate language-safe healthcare communications for Limited English Proficiency..."
-  default_prompt: "Generate and validate language-safe healthcare communications"
-
+  short_description: "Create multilingual healthcare content for LEP patients"
+  default_prompt: "Analyze my multilingual patient content and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

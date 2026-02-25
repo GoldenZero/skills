@@ -9,9 +9,8 @@ description: >
 
 metadata:
   display_name: "Upsell Timing Optimizer"
-  short_description: "Determines the optimal timing, trigger conditions, and offer structure for upsell opportunities..."
-  default_prompt: "Determines the optimal timing, trigger conditions"
-
+  short_description: "Optimize upsell timing, triggers, and offer structure"
+  default_prompt: "Optimize my upsell timing and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

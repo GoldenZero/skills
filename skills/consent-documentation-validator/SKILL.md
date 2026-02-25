@@ -4,9 +4,8 @@ description: Validate informed consent documentation for completeness, regulator
 
 metadata:
   display_name: "Consent Documentation Validator"
-  short_description: "Validate informed consent documentation for completeness, regulatory compliance, and clinical..."
-  default_prompt: "Validate informed consent documentation for completeness, regulatory compliance"
-
+  short_description: "Validate informed consent form completeness and compliance"
+  default_prompt: "Check my consent documentation for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

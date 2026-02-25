@@ -4,9 +4,8 @@ description: Compare provider performance metrics against specialty-matched peer
 
 metadata:
   display_name: "Peer Comparison Analytics"
-  short_description: "Compare provider performance metrics against specialty-matched peers using wRVU productivity,..."
-  default_prompt: "Compare provider performance metrics against specialty-matched peers using wRVU productivity"
-
+  short_description: "Benchmark provider performance against specialty-matched peers"
+  default_prompt: "Analyze my peer comparison analytics and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

@@ -4,9 +4,8 @@ description: Auto-generate weekly executive summaries for bank leadership coveri
 
 metadata:
   display_name: "Weekly Bank Exec Brief"
-  short_description: "Auto-generate weekly executive summaries for bank leadership covering financial performance,..."
-  default_prompt: "Auto-generate weekly executive summaries for bank leadership covering financial performance"
-
+  short_description: "Generate weekly executive performance briefs for bank leaders"
+  default_prompt: "Summarize my weekly bank exec with key findings and next steps"
   version: "1.0.0"
   tags:
     - financial-services

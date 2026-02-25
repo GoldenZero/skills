@@ -4,9 +4,8 @@ description: Identify and assess social determinants of health risks using valid
 
 metadata:
   display_name: "Sdoh Risk Identifier"
-  short_description: "Identify and assess social determinants of health risks using validated screening tools..."
-  default_prompt: "Identify and assess social determinants of health risks using validated screening tools (PRAPARE"
-
+  short_description: "Screen for social determinants of health risk factors"
+  default_prompt: "Review my sdoh risk and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

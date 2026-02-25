@@ -4,9 +4,8 @@ description: Identify and prioritize bottlenecks constraining CPG brand or portf
 
 metadata:
   display_name: "Growth Constraint Identifier"
-  short_description: "Identify and prioritize bottlenecks constraining CPG brand or portfolio growth using Theory of..."
-  default_prompt: "Identify and prioritize bottlenecks constraining CPG brand or portfolio growth using Theory of Constraints"
-
+  short_description: "Pinpoint bottlenecks constraining CPG brand growth"
+  default_prompt: "Review my growth constraint and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

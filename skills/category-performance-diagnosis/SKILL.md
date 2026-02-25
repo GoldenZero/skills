@@ -8,8 +8,8 @@ description: >
 
 metadata:
   display_name: "Category Performance Diagnosis"
-  short_description: "Diagnose root causes of category performance changes and growth drivers."
-  default_prompt: "Performs deep diagnostic analysis on a retail or e-commerce product category to identify root causes of performance"
+  short_description: "Diagnose retail category performance drivers and changes"
+  default_prompt: "Analyze my category performance diagnosis and recommend clear next actions"
   version: "1.0.0"
   tags:
     - commerce-intelligence

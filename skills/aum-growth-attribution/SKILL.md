@@ -4,9 +4,8 @@ description: Attribute AUM growth to its component drivers — market performanc
 
 metadata:
   display_name: "Aum Growth Attribution"
-  short_description: "Attribute AUM growth to its component drivers — market performance, net new assets, client..."
-  default_prompt: "Attribute AUM growth to its component drivers — market performance, net new assets, client acquisition, attrition"
-
+  short_description: "Break down AUM growth by market, flows, and attrition"
+  default_prompt: "Analyze my aum growth attribution and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

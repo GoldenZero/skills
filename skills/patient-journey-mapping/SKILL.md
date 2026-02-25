@@ -4,9 +4,8 @@ description: End-to-end patient journey mapping and analysis across care episode
 
 metadata:
   display_name: "Patient Journey Mapping"
-  short_description: "End-to-end patient journey mapping and analysis across care episodes, identifying friction..."
-  default_prompt: "End-to-end patient journey mapping and analysis across care episodes, identifying friction points, emotional states"
-
+  short_description: "Map end-to-end patient journeys and identify friction points"
+  default_prompt: "Map my patient journey and show key friction points and improvements"
   version: "1.0.0"
   tags:
     - healthcare

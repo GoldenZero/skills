@@ -4,9 +4,8 @@ description: Assess and explain the business impact of regulatory changes on CPG
 
 metadata:
   display_name: "Regulatory Change Impact"
-  short_description: "Assess and explain the business impact of regulatory changes on CPG operations, including FDA..."
-  default_prompt: "Assess and explain the business impact of regulatory changes on CPG operations"
-
+  short_description: "Assess regulatory change impact on CPG business operations"
+  default_prompt: "Check my cpg regulatory change impact for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - cpg-retail

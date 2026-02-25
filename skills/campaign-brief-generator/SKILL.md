@@ -8,9 +8,8 @@ description: >
 
 metadata:
   display_name: "Campaign Brief Generator"
-  short_description: "Generates comprehensive, execution-ready marketing campaign briefs for CPG and retail e-commerce..."
-  default_prompt: "Generate comprehensive, execution-ready marketing campaign briefs for CPG and retail e-commerce brands"
-
+  short_description: "Generate execution-ready marketing campaign briefs"
+  default_prompt: "Summarize my execution ready marketing campaign with key findings and next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Generate and optimize SEO-rich, conversion-focused product detail p
 
 metadata:
   display_name: "Product Description Optimizer"
-  short_description: "Generate and optimize SEO-rich, conversion-focused product detail page (PDP) copy for CPG and..."
-  default_prompt: "Generate and optimize SEO-rich, conversion-focused product detail page (PDP) copy"
-
+  short_description: "Optimize product detail page copy for SEO and conversion"
+  default_prompt: "Optimize my product description and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

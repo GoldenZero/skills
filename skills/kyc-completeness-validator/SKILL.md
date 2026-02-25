@@ -4,9 +4,8 @@ description: Validate KYC/CDD documentation completeness and identify gaps in cu
 
 metadata:
   display_name: "Kyc Completeness Validator"
-  short_description: "Validate KYC/CDD documentation completeness and identify gaps in customer due diligence files."
-  default_prompt: "Validate KYC/CDD documentation completeness and identify gaps in customer due diligence files"
-
+  short_description: "Validate KYC/CDD documentation completeness and gaps"
+  default_prompt: "Check my kyc completeness for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - financial-services

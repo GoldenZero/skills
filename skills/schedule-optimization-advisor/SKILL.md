@@ -4,9 +4,8 @@ description: Optimize provider scheduling templates using demand pattern analysi
 
 metadata:
   display_name: "Schedule Optimization Advisor"
-  short_description: "Optimize provider scheduling templates using demand pattern analysis, appointment type modeling,..."
-  default_prompt: "Optimize provider scheduling templates using demand pattern analysis, appointment type modeling, buffer optimization"
-
+  short_description: "Optimize provider scheduling templates and patient access"
+  default_prompt: "Optimize my provider scheduling templates and patient access and suggest the best next steps"
   version: "1.0.0"
   tags:
     - healthcare

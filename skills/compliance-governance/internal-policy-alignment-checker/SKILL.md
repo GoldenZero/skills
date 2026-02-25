@@ -4,9 +4,8 @@ description: Ensure CPG business activities align with internal policies on pric
 
 metadata:
   display_name: "Internal Policy Alignment Checker"
-  short_description: "Ensure CPG business activities align with internal policies on pricing, trade spend,..."
-  default_prompt: "Ensure CPG business activities align with internal policies on pricing, trade spend, sustainability, ethics"
-
+  short_description: "Check CPG activities against internal governance policies"
+  default_prompt: "Check my internal policy alignment for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - cpg-retail

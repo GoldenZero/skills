@@ -4,9 +4,8 @@ description: Review and explain sanctions screening results, OFAC match disposit
 
 metadata:
   display_name: "Sanctions Screening Review"
-  short_description: "Review and explain sanctions screening results, OFAC match dispositions, and sanctions..."
-  default_prompt: "Review and explain sanctions screening results, OFAC match dispositions, and sanctions compliance decisions"
-
+  short_description: "Review OFAC sanctions screening hits and match decisions"
+  default_prompt: "Check my sanctions screening for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - financial-services

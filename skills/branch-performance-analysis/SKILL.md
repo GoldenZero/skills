@@ -4,9 +4,8 @@ description: Analyze branch-level performance metrics and generate actionable in
 
 metadata:
   display_name: "Branch Performance Analysis"
-  short_description: "Analyze branch-level performance metrics and generate actionable insights for retail banking..."
-  default_prompt: "Analyze branch-level performance metrics and generate actionable insights for retail banking branch networks"
-
+  short_description: "Analyze retail bank branch performance and productivity"
+  default_prompt: "Analyze my branch performance and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

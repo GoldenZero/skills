@@ -4,9 +4,8 @@ description: Explain portfolio drift from target allocations in client-friendly 
 
 metadata:
   display_name: "Portfolio Drift Explanation"
-  short_description: "Explain portfolio drift from target allocations in client-friendly language with actionable..."
-  default_prompt: "Explain portfolio drift from target allocations in client-friendly language with actionable rebalancing guidance"
-
+  short_description: "Explain portfolio allocation drift with rebalancing advice"
+  default_prompt: "Explain my portfolio drift in simple words and next steps"
   version: "1.0.0"
   tags:
     - financial-services

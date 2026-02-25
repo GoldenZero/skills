@@ -4,9 +4,8 @@ description: Analyze customer channel shift patterns from physical to digital ba
 
 metadata:
   display_name: "Digital Channel Migration Analysis"
-  short_description: "Analyze customer channel shift patterns from physical to digital banking channels."
-  default_prompt: "Analyze customer channel shift patterns from physical to digital banking channels"
-
+  short_description: "Analyze bank digital channel adoption and migration trends"
+  default_prompt: "Analyze my digital channel migration and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

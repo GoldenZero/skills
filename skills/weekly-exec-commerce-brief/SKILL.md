@@ -4,9 +4,8 @@ description: Auto-generate a weekly executive commerce brief with KPIs, trend an
 
 metadata:
   display_name: "Weekly Exec Commerce Brief"
-  short_description: "Auto-generate a weekly executive commerce brief with KPIs, trend analysis, and strategic..."
-  default_prompt: "Auto-generate a weekly executive commerce brief with KPIs, trend analysis, and strategic commentary for CPG leadership"
-
+  short_description: "Generate weekly CPG commerce executive briefs with KPIs"
+  default_prompt: "Summarize my weekly exec commerce with key findings and next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

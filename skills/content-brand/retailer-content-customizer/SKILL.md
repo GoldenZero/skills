@@ -4,9 +4,8 @@ description: Tailor product content to meet the unique style guides, character l
 
 metadata:
   display_name: "Retailer Content Customizer"
-  short_description: "Tailor product content to meet the unique style guides, character limits, taxonomy rules, and..."
-  default_prompt: "Tailor product content to meet the unique style guides, character limits, taxonomy rules"
-
+  short_description: "Customize product content per retailer style guidelines"
+  default_prompt: "Generate retailer content for my case with clear next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

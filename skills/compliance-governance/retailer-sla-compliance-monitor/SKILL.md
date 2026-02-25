@@ -4,9 +4,8 @@ description: Track and report on SLA adherence across CPG-retailer relationships
 
 metadata:
   display_name: "Retailer Sla Compliance Monitor"
-  short_description: "Track and report on SLA adherence across CPG-retailer relationships including fill rates,..."
-  default_prompt: "Track and report on SLA adherence across CPG-retailer relationships"
-
+  short_description: "Monitor CPG-retailer SLA compliance and chargebacks"
+  default_prompt: "Check my retailer sla compliance for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - cpg-retail

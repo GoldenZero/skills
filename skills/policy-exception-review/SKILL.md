@@ -4,9 +4,8 @@ description: Analyze policy exceptions for risk patterns, concentration risks, a
 
 metadata:
   display_name: "Policy Exception Review"
-  short_description: "Analyze policy exceptions for risk patterns, concentration risks, and control gaps in financial..."
-  default_prompt: "Analyze policy exceptions for risk patterns, concentration risks, and control gaps in financial institutions"
-
+  short_description: "Review bank policy exceptions for risk patterns and gaps"
+  default_prompt: "Check my policy exception for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - financial-services

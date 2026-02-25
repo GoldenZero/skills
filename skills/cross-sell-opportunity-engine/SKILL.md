@@ -9,9 +9,8 @@ description: >
 
 metadata:
   display_name: "Cross Sell Opportunity Engine"
-  short_description: "Identifies and prioritizes cross-sell opportunities by analyzing product affinity, purchase..."
-  default_prompt: "Identify and prioritizes cross-sell opportunities by analyzing product affinity, purchase sequences, basket composition"
-
+  short_description: "Identify cross-sell opportunities via product affinity"
+  default_prompt: "Optimize my cross sell opportunity and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

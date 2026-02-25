@@ -4,9 +4,8 @@ description: Analyze profitability by clinical service line using contribution m
 
 metadata:
   display_name: "Service Line Profitability"
-  short_description: "Analyze profitability by clinical service line using contribution margin analysis, cost..."
-  default_prompt: "Analyze profitability by clinical service line using contribution margin analysis, cost allocation"
-
+  short_description: "Analyze clinical service line profitability and margins"
+  default_prompt: "Analyze my service line profitability and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

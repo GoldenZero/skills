@@ -4,9 +4,8 @@ description: Flag theft, fraud, and process-failure risk patterns by analyzing i
 
 metadata:
   display_name: "Shrinkage Risk Detector"
-  short_description: "Flag theft, fraud, and process-failure risk patterns by analyzing inventory variance,..."
-  default_prompt: "Flag theft, fraud, and process-failure risk patterns"
-
+  short_description: "Detect retail shrinkage risk from inventory and POS data"
+  default_prompt: "Review my shrinkage risk and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

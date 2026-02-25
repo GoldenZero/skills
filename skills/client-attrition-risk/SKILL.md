@@ -4,9 +4,8 @@ description: Predict client attrition risk for wealth management relationships u
 
 metadata:
   display_name: "Client Attrition Risk"
-  short_description: "Predict client attrition risk for wealth management relationships using engagement, performance,..."
-  default_prompt: "Predict client attrition risk for wealth management relationships using engagement, performance, service"
-
+  short_description: "Predict wealth management client attrition risk signals"
+  default_prompt: "Optimize my client attrition risk and suggest the best next steps"
   version: "1.0.0"
   tags:
     - financial-services

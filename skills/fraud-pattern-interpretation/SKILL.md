@@ -4,9 +4,8 @@ description: Interpret and explain fraud detection signals, model outputs, and s
 
 metadata:
   display_name: "Fraud Pattern Interpretation"
-  short_description: "Interpret and explain fraud detection signals, model outputs, and suspicious patterns across..."
-  default_prompt: "Interpret and explain fraud detection signals, model outputs"
-
+  short_description: "Interpret banking fraud detection signals and alerts"
+  default_prompt: "Interpret my fraud pattern signals in simple words and next steps"
   version: "1.0.0"
   tags:
     - financial-services

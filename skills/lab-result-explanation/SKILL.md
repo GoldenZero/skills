@@ -4,9 +4,8 @@ description: Explain laboratory results for clinicians with clinical context, re
 
 metadata:
   display_name: "Lab Result Explanation"
-  short_description: "Explain laboratory results for clinicians with clinical context, reference range interpretation,..."
-  default_prompt: "Explain laboratory results for clinicians"
-
+  short_description: "Interpret lab results with clinical context and trends"
+  default_prompt: "Explain my lab result in simple words and next steps"
   version: "1.0.0"
   tags:
     - healthcare

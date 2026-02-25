@@ -4,8 +4,8 @@ description: Explain loan approval and denial decisions with full regulatory com
 
 metadata:
   display_name: "Loan Application Explanation"
-  short_description: "Explain loan approval and denial decisions with Reg B/ECOA-compliant reason codes."
-  default_prompt: "Explain loan approval and denial decisions with full regulatory compliance"
+  short_description: "Explain loan approval and denial decisions with reason codes"
+  default_prompt: "Explain my loan application in simple words and next steps"
   version: "1.0.0"
   tags:
     - financial-services

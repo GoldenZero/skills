@@ -9,9 +9,8 @@ description: >
 
 metadata:
   display_name: "Customer Segmentation Builder"
-  short_description: "Builds actionable customer segments for CPG and retail e-commerce using RFM analysis, behavioral..."
-  default_prompt: "Build actionable customer segments for CPG and retail e-commerce using RFM analysis"
-
+  short_description: "Build customer segments using RFM and behavior data"
+  default_prompt: "Optimize my customer segmentation builder and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

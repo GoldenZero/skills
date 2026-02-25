@@ -4,9 +4,8 @@ description: Diagnose cart abandonment and checkout funnel drop-off by analyzing
 
 metadata:
   display_name: "Checkout Drop Off Analyzer"
-  short_description: "Diagnose cart abandonment and checkout funnel drop-off by analyzing behavioral, technical, and..."
-  default_prompt: "Diagnose cart abandonment and checkout funnel drop-off by analyzing behavioral, technical"
-
+  short_description: "Diagnose cart abandonment and checkout drop-off root causes"
+  default_prompt: "Analyze my checkout drop off and recommend clear next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

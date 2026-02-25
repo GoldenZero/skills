@@ -4,9 +4,8 @@ description: Enforce data access policies and rules for protected health informa
 
 metadata:
   display_name: "Data Access Governance"
-  short_description: "Enforce data access policies and rules for protected health information by defining role-based..."
-  default_prompt: "Enforce data access policies and rules for protected health information"
-
+  short_description: "Enforce HIPAA data access policies and controls for PHI"
+  default_prompt: "Check my data access governance for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

@@ -4,9 +4,8 @@ description: Adapt CPG and retail e-commerce content for target markets with cul
 
 metadata:
   display_name: "Localization & Cultural Adaptation"
-  short_description: "Adapt CPG and retail e-commerce content for target markets with culturally resonant messaging,..."
-  default_prompt: "Adapt CPG and retail e-commerce content for target markets"
-
+  short_description: "Localize retail content with cultural adaptation and QA"
+  default_prompt: "Check my localization cultural adaptation for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - cpg-retail

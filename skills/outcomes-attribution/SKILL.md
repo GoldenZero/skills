@@ -4,9 +4,8 @@ description: Attribute health outcomes to specific clinical interventions, progr
 
 metadata:
   display_name: "Outcomes Attribution"
-  short_description: "Attribute health outcomes to specific clinical interventions, programs, or policy changes using..."
-  default_prompt: "Attribute health outcomes to specific clinical interventions, programs, or policy changes using causal inference methods"
-
+  short_description: "Attribute health outcomes to clinical interventions"
+  default_prompt: "Analyze my outcomes attribution and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

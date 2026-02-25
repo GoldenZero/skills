@@ -8,9 +8,8 @@ description: >
 
 metadata:
   display_name: "Ad Creative Variant Generator"
-  short_description: "Generates systematic ad creative variants across copy, visual direction, format, and audience..."
-  default_prompt: "Generate systematic ad creative variants across copy, visual direction, format"
-
+  short_description: "Create multi-format ad creative variations for CPG"
+  default_prompt: "Generate ad creative variant for my case with clear next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

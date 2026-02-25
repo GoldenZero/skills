@@ -9,8 +9,8 @@ description: >
 
 metadata:
   display_name: "SKU Rationalization Advisor"
-  short_description: "Recommend keep/delist/consolidate actions to optimize assortment efficiency."
-  default_prompt: "Evaluate and recommends SKU-level actions (keep"
+  short_description: "Advise on SKU keep, delist, or consolidate actions"
+  default_prompt: "Optimize my sku rationalization and suggest the best next steps"
   version: "1.0.0"
   tags:
     - commerce-intelligence

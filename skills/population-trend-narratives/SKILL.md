@@ -4,9 +4,8 @@ description: Generate plain-language narratives explaining population health tre
 
 metadata:
   display_name: "Population Trend Narratives"
-  short_description: "Generate plain-language narratives explaining population health trends from clinical,..."
-  default_prompt: "Generate plain-language narratives explaining population health trends from clinical, utilization, and cost data"
-
+  short_description: "Narrate population health trends in plain language"
+  default_prompt: "Summarize my population trend with key findings and next steps"
   version: "1.0.0"
   tags:
     - healthcare

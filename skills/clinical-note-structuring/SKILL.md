@@ -4,9 +4,8 @@ description: Structure unstructured clinical notes into standardized SOAP format
 
 metadata:
   display_name: "Clinical Note Structuring"
-  short_description: "Structure unstructured clinical notes into standardized SOAP format with coded diagnoses,..."
-  default_prompt: "Structure unstructured clinical notes into standardized SOAP format with coded diagnoses, procedure mappings"
-
+  short_description: "Convert free-text clinical notes into structured SOAP format"
+  default_prompt: "Generate clinical note for my case with clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

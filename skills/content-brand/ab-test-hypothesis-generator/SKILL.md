@@ -4,9 +4,8 @@ description: Generate statistically rigorous, testable hypotheses for e-commerce
 
 metadata:
   display_name: "A/b Test Hypothesis Generator"
-  short_description: "Generate statistically rigorous, testable hypotheses for e-commerce content optimization..."
-  default_prompt: "Generate statistically rigorous, testable hypotheses"
-
+  short_description: "Generate A/B test hypotheses for e-commerce content"
+  default_prompt: "Generate a b test hypothesis for my case"
   version: "1.0.0"
   tags:
     - cpg-retail

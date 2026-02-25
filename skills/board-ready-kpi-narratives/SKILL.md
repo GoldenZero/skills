@@ -4,9 +4,8 @@ description: Generate investor-safe, board-ready narratives from raw KPI data fo
 
 metadata:
   display_name: "Board Ready Kpi Narratives"
-  short_description: "Generate investor-safe, board-ready narratives from raw KPI data for CPG companies."
-  default_prompt: "Generate investor-safe, board-ready narratives from raw KPI data for CPG companies"
-
+  short_description: "Turn raw CPG KPI data into investor-safe board narratives"
+  default_prompt: "Summarize my board ready kpi with key findings and next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

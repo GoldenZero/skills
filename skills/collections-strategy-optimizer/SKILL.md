@@ -4,9 +4,8 @@ description: Optimize collections strategies using segmentation, channel effecti
 
 metadata:
   display_name: "Collections Strategy Optimizer"
-  short_description: "Optimize collections strategies using segmentation, channel effectiveness analysis, and recovery..."
-  default_prompt: "Optimize collections strategies using segmentation, channel effectiveness analysis, and recovery maximization modeling"
-
+  short_description: "Optimize debt collection strategies and recovery rates"
+  default_prompt: "Optimize my collections strategy and suggest the best next steps"
   version: "1.0.0"
   tags:
     - financial-services

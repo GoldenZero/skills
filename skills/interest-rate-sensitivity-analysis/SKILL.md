@@ -4,9 +4,8 @@ description: Analyze and explain interest rate risk impact on NII and EVE, inclu
 
 metadata:
   display_name: "Interest Rate Sensitivity Analysis"
-  short_description: "Analyze and explain interest rate risk impact on NII and EVE, including duration gap analysis,..."
-  default_prompt: "Analyze and explain interest rate risk impact on NII and EVE"
-
+  short_description: "Analyze interest rate risk impact on NII, EVE, and duration"
+  default_prompt: "Analyze my interest rate sensitivity and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

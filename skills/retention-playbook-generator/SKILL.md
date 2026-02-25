@@ -9,9 +9,8 @@ description: >
 
 metadata:
   display_name: "Retention Playbook Generator"
-  short_description: "Generates comprehensive, lifecycle-stage-specific retention playbooks for CPG and retail..."
-  default_prompt: "Generate comprehensive, lifecycle-stage-specific retention playbooks for CPG and retail e-commerce brands"
-
+  short_description: "Build lifecycle retention playbooks for retail brands"
+  default_prompt: "Optimize my lifecycle retention playbooks for retail brands and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

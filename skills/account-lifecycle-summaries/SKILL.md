@@ -4,9 +4,8 @@ description: Generate comprehensive account history narratives covering the full
 
 metadata:
   display_name: "Account Lifecycle Summaries"
-  short_description: "Generate comprehensive account history narratives covering the full lifecycle from opening..."
-  default_prompt: "Generate comprehensive account history narratives covering the full lifecycle from opening through closure"
-
+  short_description: "Summarize full account history from opening through closure"
+  default_prompt: "Summarize my account lifecycle with key findings and next steps"
   version: "1.0.0"
   tags:
     - financial-services

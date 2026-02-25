@@ -4,9 +4,8 @@ description: Assess internal control testing effectiveness for financial institu
 
 metadata:
   display_name: "Internal Control Effectiveness"
-  short_description: "Assess internal control testing effectiveness for financial institutions using COSO 2013..."
-  default_prompt: "Assess internal control testing effectiveness"
-
+  short_description: "Evaluate internal control effectiveness per COSO/SOX"
+  default_prompt: "Analyze my internal control effectiveness and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

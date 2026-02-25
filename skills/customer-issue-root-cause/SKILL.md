@@ -4,9 +4,8 @@ description: Perform root cause analysis on banking customer complaints and oper
 
 metadata:
   display_name: "Customer Issue Root Cause"
-  short_description: "Perform root cause analysis on banking customer complaints and operational issues."
-  default_prompt: "Perform root cause analysis on banking customer complaints and operational issues"
-
+  short_description: "Root cause analysis for banking customer complaints"
+  default_prompt: "Analyze my customer issue root cause and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

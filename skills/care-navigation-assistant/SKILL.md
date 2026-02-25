@@ -4,9 +4,8 @@ description: Guide patients through complex care pathways by generating personal
 
 metadata:
   display_name: "Care Navigation Assistant"
-  short_description: "Guide patients through complex care pathways by generating personalized navigation plans..."
-  default_prompt: "Guide patients through complex care pathways"
-
+  short_description: "Guide patients through complex care pathways and referrals"
+  default_prompt: "Help me with care navigation and give clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

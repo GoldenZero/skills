@@ -4,9 +4,8 @@ description: Ensure healthcare billing compliance with CMS rules, OIG guidelines
 
 metadata:
   display_name: "Billing Compliance Checker"
-  short_description: "Ensure healthcare billing compliance with CMS rules, OIG guidelines, False Claims Act..."
-  default_prompt: "Ensure healthcare billing compliance with CMS rules, OIG guidelines, False Claims Act requirements"
-
+  short_description: "Audit healthcare billing for regulatory compliance"
+  default_prompt: "Check my billing compliance for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

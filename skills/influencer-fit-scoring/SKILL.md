@@ -9,9 +9,8 @@ description: >
 
 metadata:
   display_name: "Influencer Fit Scoring"
-  short_description: "Scores and ranks influencers for brand partnership fit using a multi-dimensional framework..."
-  default_prompt: "Score and ranks influencers for brand partnership fit using a multi-dimensional framework covering audience alignment"
-
+  short_description: "Score influencer-brand partnership fit and alignment"
+  default_prompt: "Score my influencer fit and explain what to improve"
   version: "1.0.0"
   tags:
     - cpg-retail

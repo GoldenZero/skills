@@ -4,8 +4,8 @@ description: Provide risk-adjusted loan pricing guidance using PD/LGD models, co
 
 metadata:
   display_name: "Loan Pricing Optimization"
-  short_description: "Provide risk-adjusted loan pricing guidance using PD/LGD and cost-of-funds."
-  default_prompt: "Provide risk-adjusted loan pricing guidance using PD/LGD models, cost-of-funds analysis, and competitive market data"
+  short_description: "Optimize risk-adjusted loan pricing using PD/LGD models"
+  default_prompt: "Optimize my loan pricing and suggest the best next steps"
   version: "1.0.0"
   tags:
     - financial-services

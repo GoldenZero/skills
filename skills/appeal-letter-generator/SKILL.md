@@ -4,9 +4,8 @@ description: Generate professionally structured, evidence-based appeal letters f
 
 metadata:
   display_name: "Appeal Letter Generator"
-  short_description: "Generate professionally structured, evidence-based appeal letters for claim denials, prior..."
-  default_prompt: "Generate professionally structured, evidence-based appeal letters for claim denials, prior authorization overturns"
-
+  short_description: "Draft evidence-based healthcare claim denial appeal letters"
+  default_prompt: "Generate appeal letter for my case with clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

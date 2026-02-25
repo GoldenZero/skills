@@ -4,9 +4,8 @@ description: Generate evidence-based diagnostic summaries by synthesizing clinic
 
 metadata:
   display_name: "Diagnostic Support Summaries"
-  short_description: "Generate evidence-based diagnostic summaries by synthesizing clinical findings, test results,..."
-  default_prompt: "Generate evidence-based diagnostic summaries by synthesizing clinical findings, test results"
-
+  short_description: "Synthesize clinical findings into diagnostic summaries"
+  default_prompt: "Help me with synthesize clinical findings into diagnostic and give clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

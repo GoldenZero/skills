@@ -4,9 +4,8 @@ description: Summarize customer feedback at scale across surveys, reviews, socia
 
 metadata:
   display_name: "Voice Of Customer Summarizer"
-  short_description: "Summarize customer feedback at scale across surveys, reviews, social media, and support..."
-  default_prompt: "Summarize customer feedback at scale across surveys, reviews, social media"
-
+  short_description: "Summarize customer feedback across all channels at scale"
+  default_prompt: "Help me with voice of customer summarizer and give clear next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Generate executive-safe clinical performance summaries for board pr
 
 metadata:
   display_name: "Board Ready Clinical Insights"
-  short_description: "Generate executive-safe clinical performance summaries for board presentations, investor..."
-  default_prompt: "Generate executive-safe clinical performance summaries for board presentations, investor updates"
-
+  short_description: "Translate clinical data into board-level summaries"
+  default_prompt: "Check my board ready clinical insights for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

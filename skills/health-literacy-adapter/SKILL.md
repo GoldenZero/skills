@@ -4,9 +4,8 @@ description: Dynamically adjust healthcare content readability and presentation 
 
 metadata:
   display_name: "Health Literacy Adapter"
-  short_description: "Dynamically adjust healthcare content readability and presentation based on assessed health..."
-  default_prompt: "Dynamically adjust healthcare content readability and presentation based on assessed health literacy levels using"
-
+  short_description: "Adapt healthcare content to patient literacy levels"
+  default_prompt: "Generate health literacy for my case with clear next steps"
   version: "1.0.0"
   tags:
     - healthcare

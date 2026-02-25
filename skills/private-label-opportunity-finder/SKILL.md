@@ -9,8 +9,8 @@ description: >
 
 metadata:
   display_name: "Private Label Opportunity Finder"
-  short_description: "Identify and prioritize private label development opportunities by category."
-  default_prompt: "Identify and prioritizes opportunities for private label (store brand) product development"
+  short_description: "Find and prioritize private label product opportunities"
+  default_prompt: "Analyze my private label opportunity and recommend clear next actions"
   version: "1.0.0"
   tags:
     - commerce-intelligence

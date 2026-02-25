@@ -4,9 +4,8 @@ description: Identify and track health disparities across race, ethnicity, socio
 
 metadata:
   display_name: "Health Equity Monitoring"
-  short_description: "Identify and track health disparities across race, ethnicity, socioeconomic status, geography,..."
-  default_prompt: "Identify and track health disparities across race, ethnicity, socioeconomic status, geography"
-
+  short_description: "Track health disparities across race, geography, and income"
+  default_prompt: "Review my health equity and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

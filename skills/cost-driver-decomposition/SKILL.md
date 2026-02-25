@@ -4,9 +4,8 @@ description: Decompose and explain healthcare cost growth into contributing fact
 
 metadata:
   display_name: "Cost Driver Decomposition"
-  short_description: "Decompose and explain healthcare cost growth into contributing factors including utilization..."
-  default_prompt: "Decompose and explain healthcare cost growth into contributing factors"
-
+  short_description: "Break down healthcare cost growth by contributing factors"
+  default_prompt: "Analyze my cost driver decomposition and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

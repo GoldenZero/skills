@@ -4,9 +4,8 @@ description: Summarize patient care journeys across encounters into concise clin
 
 metadata:
   display_name: "Care Pathway Summarization"
-  short_description: "Summarize patient care journeys across encounters into concise clinical pathway narratives with..."
-  default_prompt: "Summarize patient care journeys across encounters into concise clinical pathway narratives"
-
+  short_description: "Summarize patient care journeys across clinical encounters"
+  default_prompt: "Summarize my care pathway with key findings and next steps"
   version: "1.0.0"
   tags:
     - healthcare

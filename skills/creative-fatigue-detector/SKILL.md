@@ -8,9 +8,8 @@ description: >
 
 metadata:
   display_name: "Creative Fatigue Detector"
-  short_description: "Analyzes ad performance data to detect creative fatigue signals and recommends refresh..."
-  default_prompt: "Analyze ad performance data to detect creative fatigue signals and recommends refresh strategies"
-
+  short_description: "Detect ad creative fatigue and recommend refresh timing"
+  default_prompt: "Review my creative fatigue and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

@@ -4,9 +4,8 @@ description: Decompose customer service costs by channel, product, segment, and 
 
 metadata:
   display_name: "Cost To Serve Decomposition"
-  short_description: "Decompose customer service costs by channel, product, segment, and activity to identify cost..."
-  default_prompt: "Decompose customer service costs by channel, product, segment, and activity to identify cost optimization opportunities"
-
+  short_description: "Decompose banking cost-to-serve by channel and segment"
+  default_prompt: "Analyze my cost to serve decomposition and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

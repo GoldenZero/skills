@@ -4,8 +4,8 @@ description: Analyze business continuity planning readiness for financial instit
 
 metadata:
   display_name: "Bcp Readiness Analysis"
-  short_description: "Analyze business continuity planning readiness for financial institutions."
-  default_prompt: "Analyze business continuity planning readiness for financial institutions"
+  short_description: "Assess bank business continuity and disaster readiness"
+  default_prompt: "Optimize my bank business continuity and disaster and suggest the best next steps"
   version: "1.0.0"
   tags:
     - financial-services

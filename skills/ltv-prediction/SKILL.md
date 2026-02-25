@@ -9,9 +9,8 @@ description: >
 
 metadata:
   display_name: "Ltv Prediction"
-  short_description: "Predicts customer lifetime value using cohort analysis, RFM-based heuristics, and probabilistic..."
-  default_prompt: "Predict customer lifetime value using cohort analysis, RFM-based heuristics"
-
+  short_description: "Predict customer lifetime value for retail and CPG brands"
+  default_prompt: "Review my customer lifetime value for retail and and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

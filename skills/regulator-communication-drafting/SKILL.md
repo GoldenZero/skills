@@ -4,9 +4,8 @@ description: Draft regulator-ready communications for financial institutions. Us
 
 metadata:
   display_name: "Regulator Communication Drafting"
-  short_description: "Draft regulator-ready communications for financial institutions."
-  default_prompt: "Draft regulator-ready communications for financial institutions"
-
+  short_description: "Draft regulatory correspondence for bank supervisors"
+  default_prompt: "Generate regulator communication for my case with clear next steps"
   version: "1.0.0"
   tags:
     - financial-services

@@ -4,9 +4,8 @@ description: Identify and quantify referral leakage where patients receive refer
 
 metadata:
   display_name: "Referral Leakage Detection"
-  short_description: "Identify and quantify referral leakage where patients receive referred services outside the..."
-  default_prompt: "Identify and quantify referral leakage where patients receive referred services outside the health system network"
-
+  short_description: "Detect out-of-network referral leakage patterns and revenue"
+  default_prompt: "Review my referral leakage and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

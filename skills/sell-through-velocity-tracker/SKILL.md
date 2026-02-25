@@ -4,9 +4,8 @@ description: Track product sell-through velocity against category benchmarks, se
 
 metadata:
   display_name: "Sell Through Velocity Tracker"
-  short_description: "Track product sell-through velocity against category benchmarks, seasonal expectations, and..."
-  default_prompt: "Track product sell-through velocity against category benchmarks, seasonal expectations"
-
+  short_description: "Track product sell-through velocity against benchmarks"
+  default_prompt: "Review my sell through velocity and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

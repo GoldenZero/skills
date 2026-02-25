@@ -4,9 +4,8 @@ description: Recommend data-driven return policy changes by analyzing return pat
 
 metadata:
   display_name: "Return Policy Optimization"
-  short_description: "Recommend data-driven return policy changes by analyzing return patterns, cost structures,..."
-  default_prompt: "Recommend data-driven return policy changes by analyzing return patterns, cost structures, customer behavior impacts"
-
+  short_description: "Optimize return policies using data-driven analysis"
+  default_prompt: "Optimize my return policy and suggest the best next steps"
   version: "1.0.0"
   tags:
     - cpg-retail

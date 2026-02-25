@@ -4,9 +4,8 @@ description: Identify and assess privacy and security risks under HIPAA Privacy 
 
 metadata:
   display_name: "Hipaa Risk Review"
-  short_description: "Identify and assess privacy and security risks under HIPAA Privacy Rule (45 CFR 160/164 Subpart..."
-  default_prompt: "Identify and assess privacy and security risks under HIPAA Privacy Rule (45 CFR 160/164 Subpart E)"
-
+  short_description: "Assess HIPAA privacy and security compliance risks"
+  default_prompt: "Check my hipaa risk for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - healthcare

@@ -4,9 +4,8 @@ description: Identify and quantify channel cannibalization, pricing conflicts, a
 
 metadata:
   display_name: "Channel Conflict Analyzer"
-  short_description: "Identify and quantify channel cannibalization, pricing conflicts, and distribution overlap..."
-  default_prompt: "Identify and quantify channel cannibalization, pricing conflicts, and distribution overlap across CPG sales channels"
-
+  short_description: "Detect cross-channel pricing and distribution conflicts"
+  default_prompt: "Analyze my channel conflict and recommend clear next actions"
   version: "1.0.0"
   tags:
     - cpg-retail

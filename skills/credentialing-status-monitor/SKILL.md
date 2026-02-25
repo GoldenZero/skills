@@ -4,9 +4,8 @@ description: Track and manage provider credentialing and privileging lifecycles 
 
 metadata:
   display_name: "Credentialing Status Monitor"
-  short_description: "Track and manage provider credentialing and privileging lifecycles using CAQH workflow..."
-  default_prompt: "Track and manage provider credentialing and privileging lifecycles using CAQH workflow standards"
-
+  short_description: "Track provider credentialing and privileging status"
+  default_prompt: "Review my credentialing status and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

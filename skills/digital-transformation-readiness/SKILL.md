@@ -4,9 +4,8 @@ description: Assess digital transformation readiness for financial institutions 
 
 metadata:
   display_name: "Digital Transformation Readiness"
-  short_description: "Assess digital transformation readiness for financial institutions covering technology..."
-  default_prompt: "Assess digital transformation readiness for financial institutions covering technology infrastructure"
-
+  short_description: "Assess bank digital transformation readiness and maturity"
+  default_prompt: "Optimize my digital transformation and suggest the best next steps"
   version: "1.0.0"
   tags:
     - financial-services

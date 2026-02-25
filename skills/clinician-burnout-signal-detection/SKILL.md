@@ -4,9 +4,8 @@ description: Identify early warning signals of clinician burnout using Maslach B
 
 metadata:
   display_name: "Clinician Burnout Signal Detection"
-  short_description: "Identify early warning signals of clinician burnout using Maslach Burnout Inventory dimensions,..."
-  default_prompt: "Identify early warning signals of clinician burnout using Maslach Burnout Inventory dimensions"
-
+  short_description: "Detect early warning signs of clinician burnout and fatigue"
+  default_prompt: "Review my clinician burnout signal and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

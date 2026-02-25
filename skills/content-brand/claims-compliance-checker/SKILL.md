@@ -4,9 +4,8 @@ description: Validate product claims against FTC, FDA, EPA, and retailer-specifi
 
 metadata:
   display_name: "Claims Compliance Checker"
-  short_description: "Validate product claims against FTC, FDA, EPA, and retailer-specific regulatory frameworks for..."
-  default_prompt: "Validate product claims against FTC, FDA, EPA"
-
+  short_description: "Validate CPG product marketing claims against FTC/FDA rules"
+  default_prompt: "Check my claims compliance for gaps risks and required fixes"
   version: "1.0.0"
   tags:
     - cpg-retail

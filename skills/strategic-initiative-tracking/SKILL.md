@@ -4,9 +4,8 @@ description: Track and report on strategic initiative progress using milestone m
 
 metadata:
   display_name: "Strategic Initiative Tracking"
-  short_description: "Track and report on strategic initiative progress using milestone management, KPI monitoring,..."
-  default_prompt: "Track and report on strategic initiative progress using milestone management, KPI monitoring"
-
+  short_description: "Track strategic initiative milestones and portfolio health"
+  default_prompt: "Review my strategic initiative tracking and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - healthcare

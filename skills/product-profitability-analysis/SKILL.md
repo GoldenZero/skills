@@ -4,9 +4,8 @@ description: Analyze product-level profitability using FTP-adjusted margins, ful
 
 metadata:
   display_name: "Product Profitability Analysis"
-  short_description: "Analyze product-level profitability using FTP-adjusted margins, fully allocated costs, and..."
-  default_prompt: "Analyze product-level profitability using FTP-adjusted margins, fully allocated costs"
-
+  short_description: "Analyze bank product profitability with FTP-adjusted margins"
+  default_prompt: "Analyze my product profitability and recommend clear next actions"
   version: "1.0.0"
   tags:
     - financial-services

@@ -4,9 +4,8 @@ description: Match patient cases to applicable evidence-based clinical guideline
 
 metadata:
   display_name: "Clinical Guideline Matching"
-  short_description: "Match patient cases to applicable evidence-based clinical guidelines and protocols with gap..."
-  default_prompt: "Match patient cases to applicable evidence-based clinical guidelines and protocols"
-
+  short_description: "Match patients to evidence-based clinical guidelines"
+  default_prompt: "Optimize my clinical guideline matching and suggest the best next steps"
   version: "1.0.0"
   tags:
     - healthcare

@@ -4,9 +4,8 @@ description: Measure the clinical, utilization, and financial impact of care man
 
 metadata:
   display_name: "Care Program Effectiveness"
-  short_description: "Measure the clinical, utilization, and financial impact of care management programs and..."
-  default_prompt: "Measure the clinical, utilization, and financial impact of care management programs and population health interventions"
-
+  short_description: "Evaluate care management program outcomes and ROI impact"
+  default_prompt: "Analyze my care program effectiveness and recommend clear next actions"
   version: "1.0.0"
   tags:
     - healthcare

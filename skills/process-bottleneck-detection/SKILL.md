@@ -4,9 +4,8 @@ description: Identify and analyze operational bottlenecks in banking processes u
 
 metadata:
   display_name: "Process Bottleneck Detection"
-  short_description: "Identify and analyze operational bottlenecks in banking processes using Lean and Six Sigma..."
-  default_prompt: "Identify and analyze operational bottlenecks in banking processes using Lean and Six Sigma methodologies"
-
+  short_description: "Detect bottlenecks in banking operations processes"
+  default_prompt: "Review my process bottleneck and highlight top risks and next actions"
   version: "1.0.0"
   tags:
     - financial-services
